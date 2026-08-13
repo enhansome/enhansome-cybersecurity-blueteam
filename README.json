@@ -1,0 +1,1693 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DShell",
+          "description": "Extensible network forensic analysis framework written in Python that enables rapid development of plugins to support the dissection of network packet captures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-07T12:53:36Z",
+            "owner": "USArmyResearchLab",
+            "repo": "Dshell",
+            "stars": 5490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Password Manager Resources",
+          "description": "Collaborative, crowd-sourced data and code to make password management better.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T20:26:00Z",
+            "owner": "apple",
+            "repo": "password-manager-resources",
+            "stars": 4786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clevis",
+          "description": "Plugable framework for automated decryption, often used as a Tang client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-25T23:09:10Z",
+            "owner": "latchset",
+            "repo": "clevis",
+            "stars": 1241
+          }
+        }
+      ],
+      "title": "Automation and Convention"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MultiScanner",
+          "description": "File analysis framework written in Python that assists in evaluating a set of files by automatically running a suite of tools against them and aggregating the output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-08T14:12:14Z",
+            "owner": "mitre",
+            "repo": "multiscanner",
+            "stars": 620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "censys-python",
+          "description": "Python wrapper to the Censys REST API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-26T12:51:23Z",
+            "owner": "censys",
+            "repo": "censys-python",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-stix2",
+          "description": "Python APIs for serializing and de-serializing Structured Threat Information eXpression (STIX) JSON content, plus higher-level APIs for common tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-12T06:21:36Z",
+            "owner": "oasis-open",
+            "repo": "cti-python-stix2",
+            "stars": 432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libcrafter",
+          "description": "High level C++ network packet sniffing and crafting library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-02T02:12:57Z",
+            "owner": "pellegre",
+            "repo": "libcrafter",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-sandboxapi",
+          "description": "Minimal, consistent Python API for building integrations with malware sandboxes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-31T18:25:07Z",
+            "owner": "pedramamini",
+            "repo": "sandboxapi",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Posh-VirusTotal",
+          "description": "PowerShell interface to VirusTotal.com APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2020-01-16T20:05:44Z",
+            "owner": "darkoperator",
+            "repo": "Posh-VirusTotal",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-dshield",
+          "description": "Pythonic interface to the Internet Storm Center/DShield API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-23T06:54:04Z",
+            "owner": "rshipp",
+            "repo": "python-dshield",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Code libraries and bindings"
+    },
+    {
+      "description": "See also asecure.cloud/tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gVisor",
+          "description": "Application kernel, written in Go, that implements a substantial portion of the Linux system surface to provide an isolation boundary between the application and the host kernel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:36:58Z",
+            "owner": "google",
+            "repo": "gvisor",
+            "stars": 19069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prowler",
+          "description": "Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:21:37Z",
+            "owner": "prowler-cloud",
+            "repo": "prowler",
+            "stars": 14577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scout Suite",
+          "description": "Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-23T18:33:52Z",
+            "owner": "nccgroup",
+            "repo": "ScoutSuite",
+            "stars": 7788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Principal Mapper (PMapper)",
+          "description": "Quickly evaluate IAM permissions in AWS via script and library capable of identifying risks in the configuration of AWS Identity and Access Management (IAM) for an AWS account or an AWS organization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-02T15:38:29Z",
+            "owner": "nccgroup",
+            "repo": "PMapper",
+            "stars": 1574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aaia",
+          "description": "Helps in visualizing AWS IAM and Organizations in a graph format with help of Neo4j.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-23T11:25:02Z",
+            "owner": "rams3sh",
+            "repo": "Aaia",
+            "stars": 296
+          }
+        }
+      ],
+      "title": "Cloud platform security"
+    },
+    {
+      "description": "See also Kubernetes-Security.info.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sealed Secrets",
+          "description": "Kubernetes controller and tool for one-way encrypted Secrets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T08:13:49Z",
+            "owner": "bitnami",
+            "repo": "sealed-secrets",
+            "stars": 9238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubernetes-event-exporter",
+          "description": "Allows exporting the often missed Kubernetes events to various outputs so that they can be used for observability or alerting purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-08-31T11:33:33Z",
+            "owner": "opsgenie",
+            "repo": "kubernetes-event-exporter",
+            "stars": 1048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k-rail",
+          "description": "Workload policy enforcement tool for Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-01-12T15:58:33Z",
+            "owner": "cruise-automation",
+            "repo": "k-rail",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Managed Kubernetes Inspection Tool (MKIT)",
+          "description": "Query and validate several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dockerfile",
+            "last_commit": "2021-09-16T13:46:12Z",
+            "owner": "darkbitio",
+            "repo": "mkit",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kube-forensics",
+          "description": "Allows a cluster administrator to dump the current state of a running pod and all its containers so that security professionals can perform off-line forensic analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-16T02:43:27Z",
+            "owner": "keikoproj",
+            "repo": "kube-forensics",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "certificate-expiry-monitor",
+          "description": "Utility that exposes the expiry of TLS certificates as Prometheus metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-06-08T18:03:51Z",
+            "owner": "muxinc",
+            "repo": "certificate-expiry-monitor",
+            "stars": 169
+          }
+        }
+      ],
+      "title": "Kubernetes"
+    },
+    {
+      "description": "See also awesome-devsecops.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Trivy",
+          "description": "Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T13:41:50Z",
+            "owner": "aquasecurity",
+            "repo": "trivy",
+            "stars": 37379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SOPS",
+          "description": "Editor of encrypted files that supports YAML, JSON, ENV, INI and binary formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, and PGP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T11:27:27Z",
+            "owner": "getsops",
+            "repo": "sops",
+            "stars": 22788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git Secrets",
+          "description": "Prevents you from committing passwords and other sensitive information to a git repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-17T20:31:20Z",
+            "owner": "awslabs",
+            "repo": "git-secrets",
+            "stars": 13369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clair",
+          "description": "Static analysis tool to probe for vulnerabilities introduced via application container (e.g., Docker) images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T23:04:19Z",
+            "owner": "quay",
+            "repo": "clair",
+            "stars": 11046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlackBox",
+          "description": "Safely store secrets in Git/Mercurial/Subversion by encrypting them \"at rest\" using GnuPG.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-11-05T15:44:20Z",
+            "owner": "StackExchange",
+            "repo": "blackbox",
+            "stars": 6772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "helm-secrets",
+          "description": "Helm plugin that helps manage secrets with Git workflow and stores them anywhere, backed by SOPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-07T19:11:17Z",
+            "owner": "jkroepke",
+            "repo": "helm-secrets",
+            "stars": 2022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bane",
+          "description": "Custom and better AppArmor profile generator for Docker containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-09-17T20:10:45Z",
+            "owner": "genuinetools",
+            "repo": "bane",
+            "stars": 1230
+          }
+        }
+      ],
+      "title": "DevSecOps"
+    },
+    {
+      "description": "See also § Supply chain security.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dependency Combobulator",
+          "description": "Open source, modular and extensible framework to detect and prevent dependency confusion leakage and potential attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-10T08:26:30Z",
+            "owner": "apiiro",
+            "repo": "combobulator",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Confusion checker",
+          "description": "Script to check if you have artifacts containing the same name between your repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-05-25T14:03:41Z",
+            "owner": "sonatype-nexus-community",
+            "repo": "repo-diff",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snync",
+          "description": "Prevent and detect if you're vulnerable to dependency confusion supply chain security attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-10T17:19:49Z",
+            "owner": "snyk-labs",
+            "repo": "snync",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "Dependency confusion"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AllStar",
+          "description": "GitHub App installed on organizations or repositories to set and enforce security policies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T13:37:43Z",
+            "owner": "ossf",
+            "repo": "allstar",
+            "stars": 1441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tang",
+          "description": "Server for binding data to network presence; provides data to clients only when they are on a certain (secured) network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-06T16:28:54Z",
+            "owner": "latchset",
+            "repo": "tang",
+            "stars": 721
+          }
+        }
+      ],
+      "title": "Policy enforcement"
+    },
+    {
+      "description": "See also § Dependency confusion.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Notary",
+          "description": "Aims to make the internet more secure by making it easy for people to publish and verify content.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-08-07T19:02:32Z",
+            "owner": "notaryproject",
+            "repo": "notary",
+            "stars": 3287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helm GPG (GnuPG) Plugin",
+          "description": "Chart signing and verification with GnuPG for Helm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-02-20T17:42:16Z",
+            "owner": "technosophos",
+            "repo": "helm-gpg",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Supply chain security"
+    },
+    {
+      "description": "See also awesome-honeypots.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CanaryTokens",
+          "description": "Self-hostable honeytoken generator and reporting dashboard; demo version available at CanaryTokens.org.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T11:58:15Z",
+            "owner": "thinkst",
+            "repo": "canarytokens",
+            "stars": 2112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Manuka",
+          "description": "Open-sources intelligence (OSINT) honeypot that monitors reconnaissance attempts by threat actors and generates actionable intelligence for Blue Teamers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-05-02T11:30:14Z",
+            "owner": "spaceraccoon",
+            "repo": "manuka",
+            "stars": 348
+          }
+        }
+      ],
+      "title": "Honeypots"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Artillery",
+          "description": "Combination honeypot, filesystem monitor, and alerting system designed to protect Linux and Windows operating systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-06T01:14:11Z",
+            "owner": "BinaryDefense",
+            "repo": "artillery",
+            "stars": 1038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "USB Keystroke Injection Protection",
+          "description": "Daemon for blocking USB keystroke injection devices on Linux systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-09T20:31:03Z",
+            "owner": "google",
+            "repo": "ukip",
+            "stars": 548
+          }
+        }
+      ],
+      "title": "Host-based tools"
+    },
+    {
+      "description": "See also awesome-incident-response.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LogonTracer",
+          "description": "Investigate malicious Windows logon by visualizing and analyzing Windows event log.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T02:31:38Z",
+            "owner": "JPCERTCC",
+            "repo": "LogonTracer",
+            "stars": 3209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws_ir",
+          "description": "Automates your incident response with zero security preparedness assumptions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-23T09:00:58Z",
+            "owner": "ThreatResponse",
+            "repo": "aws_ir",
+            "stars": 344
+          }
+        }
+      ],
+      "title": "Incident Response tools"
+    },
+    {
+      "description": "See also Security Orchestration, Automation, and Response (SOAR).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fast Incident Response (FIR)",
+          "description": "Cybersecurity incident management platform allowing for easy creation, tracking, and reporting of cybersecurity incidents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T20:44:18Z",
+            "owner": "certsocietegenerale",
+            "repo": "FIR",
+            "stars": 2029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "threat_note",
+          "description": "Web application built by Defense Point Security to allow security researchers the ability to add and retrieve indicators related to their research.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2023-12-31T20:47:55Z",
+            "owner": "DefensePointSecurity",
+            "repo": "threat_note",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CIRTKit",
+          "description": "Scriptable Digital Forensics and Incident Response (DFIR) toolkit built on Viper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-04-17T16:43:44Z",
+            "owner": "opensourcesec",
+            "repo": "CIRTKit",
+            "stars": 152
+          }
+        }
+      ],
+      "title": "IR management consoles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OSXAuditor",
+          "description": "Free macOS computer forensics tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-27T22:34:25Z",
+            "owner": "jipegit",
+            "repo": "OSXAuditor",
+            "stars": 3135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSXCollector",
+          "description": "Forensic evidence collection & analysis toolkit for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-06-19T15:40:49Z",
+            "owner": "YelpArchive",
+            "repo": "osxcollector",
+            "stars": 1894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Untitled Goose Tool",
+          "description": "Assists incident response teams by exporting cloud artifacts from Azure/AzureAD/M365 environments in order to run a full investigation despite lacking in logs ingested by a SIEM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-11T01:49:34Z",
+            "owner": "cisagov",
+            "repo": "untitledgoosetool",
+            "stars": 962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ir-rescue",
+          "description": "Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Batchfile",
+            "last_commit": "2021-02-21T09:23:23Z",
+            "owner": "diogo-fernan",
+            "repo": "ir-rescue",
+            "stars": 489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Margarita Shotgun",
+          "description": "Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-22T15:58:11Z",
+            "owner": "ThreatResponse",
+            "repo": "margaritashotgun",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoMacTC",
+          "description": "Modular, automated forensic triage collection framework designed to access various forensic artifacts on macOS, parse them, and present them in formats viable for analysis.",
+          "children": []
+        }
+      ],
+      "title": "Evidence collection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ssh-audit",
+          "description": "Simple tool that makes quick recommendations for improving an SSH server's security posture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T23:04:09Z",
+            "owner": "jtesta",
+            "repo": "ssh-audit",
+            "stars": 4258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gatekeeper",
+          "description": "First open source Distributed Denial of Service (DDoS) protection system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-05T13:11:51Z",
+            "owner": "AltraMayor",
+            "repo": "gatekeeper",
+            "stars": 1631
+          }
+        }
+      ],
+      "title": "Network perimeter defenses"
+    },
+    {
+      "description": "See also awesome-pentest § Social Engineering Tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "King Phisher",
+          "description": "Tool for testing and promoting user awareness by simulating real world phishing attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T09:42:12Z",
+            "owner": "CrimsonForge-io",
+            "repo": "king-phisher",
+            "stars": 2571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phishing_catcher",
+          "description": "Configurable script to watch for issuances of suspicious TLS certificates by domain name in the Certificate Transparency Log (CTL) using the CertStream service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-13T22:18:01Z",
+            "owner": "x0rz",
+            "repo": "phishing_catcher",
+            "stars": 1814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CertSpotter",
+          "description": "Certificate Transparency log monitor from SSLMate that alerts you when a SSL/TLS certificate is issued for one of your domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T20:37:23Z",
+            "owner": "SSLMate",
+            "repo": "certspotter",
+            "stars": 1163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swordphish",
+          "description": "Platform allowing to create and manage (fake) phishing campaigns intended to train people in identifying suspicious mails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-22T12:24:25Z",
+            "owner": "societe-generale",
+            "repo": "swordphish-awareness",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phishing Intelligence Engine (PIE)",
+          "description": "Framework that will assist with the detection and response to phishing attacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2020-04-13T16:08:07Z",
+            "owner": "LogRhythm-Labs",
+            "repo": "PIE",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mailspoof",
+          "description": "Scans SPF and DMARC records for issues that could allow email spoofing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T01:28:02Z",
+            "owner": "serain",
+            "repo": "mailspoof",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NotifySecurity",
+          "description": "Outlook add-in used to help your users to report suspicious e-mails to security teams.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-09-01T00:40:01Z",
+            "owner": "certsocietegenerale",
+            "repo": "NotifySecurity",
+            "stars": 132
+          }
+        }
+      ],
+      "title": "Phishing awareness and reporting"
+    },
+    {
+      "description": "(Also known as adversary emulation, threat simulation, or similar.)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "APTSimulator",
+          "description": "Toolset to make a system look as if it was the victim of an APT attack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Batchfile",
+            "last_commit": "2025-09-23T10:20:43Z",
+            "owner": "NextronSystems",
+            "repo": "APTSimulator",
+            "stars": 2761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network Flight Simulator ()",
+          "description": "Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-04T11:25:53Z",
+            "owner": "alphasoc",
+            "repo": "flightsim",
+            "stars": 1362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RedHunt OS",
+          "description": "Ubuntu-based Open Virtual Appliance () preconfigured with several threat emulation tools as well as a defender's toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-22T10:50:09Z",
+            "owner": "redhuntlabs",
+            "repo": "RedHunt-OS",
+            "stars": 1317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metta",
+          "description": "Automated information security preparedness tool to do adversarial simulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-01T06:34:25Z",
+            "owner": "uber-common",
+            "repo": "metta",
+            "stars": 1145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DumpsterFire",
+          "description": "Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-27T15:00:56Z",
+            "owner": "TryCatchHCF",
+            "repo": "DumpsterFire",
+            "stars": 1039
+          }
+        }
+      ],
+      "title": "Preparedness training and wargaming"
+    },
+    {
+      "description": "See also awesome-pcaptools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tsunami",
+          "description": "General purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-23T16:05:00Z",
+            "owner": "google",
+            "repo": "tsunami-security-scanner",
+            "stars": 8602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maltrail",
+          "description": "Malicious network traffic detection system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T19:58:31Z",
+            "owner": "stamparm",
+            "repo": "maltrail",
+            "stars": 8578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arkime",
+          "description": "Augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T21:00:00Z",
+            "owner": "arkime",
+            "repo": "arkime",
+            "stars": 7444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stenographer",
+          "description": "Full-packet-capture utility for buffering packets to disk for intrusion detection and incident response purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-07-26T14:40:13Z",
+            "owner": "google",
+            "repo": "stenographer",
+            "stars": 1795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VAST",
+          "description": "Free and open-source network telemetry engine for data-driven security investigations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:28:24Z",
+            "owner": "tenzir",
+            "repo": "tenzir",
+            "stars": 754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Real Intelligence Threat Analysis (RITA)",
+          "description": "Open source framework for network traffic analysis that ingests Zeek logs and detects beaconing, DNS tunneling, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-17T18:58:01Z",
+            "owner": "activecm",
+            "repo": "rita",
+            "stars": 621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChopShop",
+          "description": "Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-12-19T21:28:41Z",
+            "owner": "MITRECND",
+            "repo": "chopshop",
+            "stars": 496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Respounder",
+          "description": "Detects the presence of the Responder LLMNR/NBT-NS/MDNS poisoner on a network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-06-15T07:51:13Z",
+            "owner": "codeexpress",
+            "repo": "respounder",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpoofSpotter",
+          "description": "Catch spoofed NetBIOS Name Service (NBNS) responses and alert to an email or log file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-13T03:51:53Z",
+            "owner": "NetSPI",
+            "repo": "SpoofSpotter",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "Network Security Monitoring (NSM)"
+    },
+    {
+      "description": "(Also known as hunt teaming and threat detection.)\nSee also awesome-threat-detection.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GRR Rapid Response",
+          "description": "Incident response framework focused on remote live forensics consisting of a Python agent installed on assets and Python-based server infrastructure enabling analysts to quickly triage attacks and perform analysis remotely.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-12T12:52:29Z",
+            "owner": "google",
+            "repo": "grr",
+            "stars": 5086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hunting ELK (HELK)",
+          "description": "All-in-one Free Software threat hunting stack based on Elasticsearch, Logstash, Kafka, and Kibana with various built-in integrations for analytics including Jupyter Notebook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-01T14:05:15Z",
+            "owner": "Cyb3rWard0g",
+            "repo": "HELK",
+            "stars": 3931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepBlueCLI",
+          "description": "PowerShell module for hunt teaming via Windows Event logs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-10-14T17:06:57Z",
+            "owner": "sans-blue-team",
+            "repo": "DeepBlueCLI",
+            "stars": 2427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MozDef",
+          "description": "Automate the security incident handling process and facilitate the real-time activities of incident handlers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-11-02T17:20:27Z",
+            "owner": "mozilla",
+            "repo": "MozDef",
+            "stars": 2162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerForensics",
+          "description": "All in one PowerShell-based platform to perform live hard disk forensic analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-11-16T10:31:37Z",
+            "owner": "Invoke-IR",
+            "repo": "PowerForensics",
+            "stars": 1442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CimSweep",
+          "description": "Suite of CIM/WMI-based tools enabling remote incident response and hunting operations across all versions of Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2019-08-19T12:50:44Z",
+            "owner": "mattifestation",
+            "repo": "CimSweep",
+            "stars": 656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PSRecon",
+          "description": "PSHunt-like tool for analyzing remote Windows systems that also produces a self-contained HTML report of its findings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2017-07-29T15:03:04Z",
+            "owner": "gfoss",
+            "repo": "PSRecon",
+            "stars": 494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PSHunt",
+          "description": "PowerShell module designed to scan remote endpoints for indicators of compromise or survey them for more comprehensive information related to state of those systems.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2016-09-21T00:31:47Z",
+            "owner": "Infocyte",
+            "repo": "PSHunt",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rastrea2r",
+          "description": "Multi-platform tool for triaging suspected IOCs on many endpoints simultaneously and that integrates with antivirus consoles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-01T11:12:02Z",
+            "owner": "rastrea2r",
+            "repo": "rastrea2r",
+            "stars": 238
+          }
+        }
+      ],
+      "title": "Threat hunting"
+    },
+    {
+      "description": "See also awesome-threat-intelligence.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sigma",
+          "description": "Generic signature format for SIEM systems, offering an open signature format that allows you to describe relevant log events in a straightforward manner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T18:39:07Z",
+            "owner": "SigmaHQ",
+            "repo": "sigma",
+            "stars": 10880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YARA",
+          "description": "Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples, described as \"the pattern matching swiss army knife\" for file patterns and signatures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-30T06:37:31Z",
+            "owner": "VirusTotal",
+            "repo": "yara",
+            "stars": 9803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Viper",
+          "description": "Binary analysis and management framework enabling easy organization of malware and exploit samples.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-06-07T13:49:30Z",
+            "owner": "viper-framework",
+            "repo": "viper",
+            "stars": 1563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GRASSMARLIN",
+          "description": "Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2020-02-24T16:24:07Z",
+            "owner": "nsacyber",
+            "repo": "GRASSMARLIN",
+            "stars": 1059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThreatIngestor",
+          "description": "Extendable tool to extract and aggregate IOCs from threat feeds including Twitter, RSS feeds, or other sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-26T15:01:24Z",
+            "owner": "pedramamini",
+            "repo": "ThreatIngestor",
+            "stars": 922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLSec Combine",
+          "description": "Gather and combine multiple threat intelligence feed sources into one customizable, standardized CSV-based format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-14T01:32:24Z",
+            "owner": "mlsecproject",
+            "repo": "combine",
+            "stars": 656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Threat Bus",
+          "description": "Threat intelligence dissemination layer to connect security tools through a distributed publish/subscribe message broker.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-03-17T13:44:28Z",
+            "owner": "tenzir",
+            "repo": "threatbus",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forager",
+          "description": "Multi-threaded threat intelligence gathering built with Python3 featuring simple text-based configuration and data storage for ease of use and data portability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-23T17:50:23Z",
+            "owner": "opensourcesec",
+            "repo": "Forager",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DATA",
+          "description": "Credential phish analysis and automation tool that can accept suspected phishing URLs directly or trigger on observed network traffic containing such a URL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-08-22T19:22:36Z",
+            "owner": "hadojae",
+            "repo": "DATA",
+            "stars": 99
+          }
+        }
+      ],
+      "title": "Threat intelligence"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "YARA Rules",
+          "description": "Project covering the need for IT security researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2024-04-17T00:12:25Z",
+            "owner": "Yara-Rules",
+            "repo": "rules",
+            "stars": 4870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FireEye's Red Team Tool Countermeasures",
+          "description": "Collection of Snort and YARA rules to detect attacks carried out with FireEye's own Red Team tools, first released after FireEye disclosed a breach in December 2020.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "YARA",
+            "last_commit": "2024-03-05T10:19:46Z",
+            "owner": "mandiant",
+            "repo": "red_team_tool_countermeasures",
+            "stars": 2666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESET's Malware IoCs",
+          "description": "Indicators of Compromises (IOCs) derived from ESET's various investigations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2026-06-25T15:55:53Z",
+            "owner": "eset",
+            "repo": "malware-ioc",
+            "stars": 1975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FireEye's Sunburst Countermeasures",
+          "description": "Collection of IoC in various languages for detecting backdoored SolarWinds Orion NMS activities and related vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "YARA",
+            "last_commit": "2023-06-01T13:34:23Z",
+            "owner": "mandiant",
+            "repo": "sunburst_countermeasures",
+            "stars": 563
+          }
+        }
+      ],
+      "title": "Threat signature packages and collections"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Headscale",
+          "description": "Open source, self-hosted implementation of the Tailscale control server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-30T10:20:13Z",
+            "owner": "juanfont",
+            "repo": "headscale",
+            "stars": 42808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IPsec VPN Server Auto Setup Scripts",
+          "description": "Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-08T20:11:20Z",
+            "owner": "hwdsl2",
+            "repo": "setup-ipsec-vpn",
+            "stars": 28334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nebula",
+          "description": "Completely open source and self-hosted, scalable overlay networking tool with a focus on performance, simplicity, and security, inspired by tinc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T16:42:43Z",
+            "owner": "slackhq",
+            "repo": "nebula",
+            "stars": 17603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Innernet",
+          "description": "Free Software private network system that uses WireGuard under the hood, made to be self-hosted.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-28T12:00:53Z",
+            "owner": "tonarino",
+            "repo": "innernet",
+            "stars": 5522
+          }
+        }
+      ],
+      "title": "Overlay and Virtual Private Networks (VPNs)"
+    },
+    {
+      "description": "See also drduh/macOS-Security-and-Privacy-Guide.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Santa",
+          "description": "Keep track of binaries that are naughty or nice in an allow/deny-listing system for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C++",
+            "last_commit": "2025-02-05T13:23:36Z",
+            "owner": "google",
+            "repo": "santa",
+            "stars": 4509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stronghold",
+          "description": "Easily configure macOS security settings from the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-24T07:31:58Z",
+            "owner": "alichtman",
+            "repo": "stronghold",
+            "stars": 1191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macOS Fortress",
+          "description": "Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-11-24T02:47:52Z",
+            "owner": "essandess",
+            "repo": "macOS-Fortress",
+            "stars": 451
+          }
+        }
+      ],
+      "title": "macOS-based defenses"
+    },
+    {
+      "description": "See also awesome-windows#security and awesome-windows-domain-hardening.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HardenTools",
+          "description": "Utility that disables a number of risky Windows features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-10T15:21:12Z",
+            "owner": "hardentools",
+            "repo": "hardentools",
+            "stars": 3105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows Secure Host Baseline",
+          "description": "Group Policy objects, compliance checks, and configuration tools that provide an automated and flexible approach for securely deploying and maintaining the latest releases of Windows 10.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2022-12-24T16:24:21Z",
+            "owner": "nsacyber",
+            "repo": "Windows-Secure-Host-Baseline",
+            "stars": 1588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CobaltStrikeScan",
+          "description": "Scan files or process memory for Cobalt Strike beacons and parse their configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-08-19T10:02:58Z",
+            "owner": "Apr4h",
+            "repo": "CobaltStrikeScan",
+            "stars": 919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sticky Keys Slayer",
+          "description": "Establishes a Windows RDP session from a list of hostnames and scans for accessibility tools backdoors, alerting if one is discovered.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-03-16T15:59:41Z",
+            "owner": "linuz",
+            "repo": "Sticky-Keys-Slayer",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WMI Monitor",
+          "description": "Log newly created WMI consumers and processes to the Windows Application event log.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2018-02-28T22:25:46Z",
+            "owner": "realparisi",
+            "repo": "WMI_Monitor",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NotRuler",
+          "description": "Detect both client-side rules and VBScript enabled forms used by the Ruler attack tool when attempting to compromise a Microsoft Exchange server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-10-11T07:15:40Z",
+            "owner": "sensepost",
+            "repo": "notruler",
+            "stars": 96
+          }
+        }
+      ],
+      "title": "Windows-based defenses"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PlumHound",
+          "description": "More effectively use BloodHoundAD in continual security life-cycles by utilizing its pathfinding engine to identify Active Directory security vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-15T11:44:12Z",
+            "owner": "PlumHound",
+            "repo": "PlumHound",
+            "stars": 1309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Active Directory Control Paths",
+          "description": "Visualize and graph Active Directory permission configs (\"control relations\") to audit questions such as \"Who can read the CEO's email?\" and similar.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2020-12-17T19:43:04Z",
+            "owner": "ANSSI-FR",
+            "repo": "AD-control-paths",
+            "stars": 678
+          }
+        }
+      ],
+      "title": "Active Directory"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:03:21.340Z",
+    "original_repository": "fabacab/awesome-cybersecurity-blueteam",
+    "original_repository_sha": "d2231996bf67d4b5f86f09825a128b951324f915",
+    "enhanced_repository": "enhansome/enhansome-cybersecurity-blueteam",
+    "enhanced_repository_description": null,
+    "title": "Awesome Cybersecurity Blue Team with stars"
+  }
+}
