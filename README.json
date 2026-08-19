@@ -178,7 +178,7 @@
             "last_commit": "2026-08-19T07:34:53Z",
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19113
+            "stars": 19116
           }
         },
         {
@@ -356,7 +356,7 @@
             "last_commit": "2026-08-19T06:08:28Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37497
+            "stars": 37498
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2026-08-17T17:56:38Z",
             "owner": "getsops",
             "repo": "sops",
-            "stars": 22857
+            "stars": 22859
           }
         },
         {
@@ -401,7 +401,7 @@
             "last_commit": "2026-08-11T23:04:19Z",
             "owner": "quay",
             "repo": "clair",
-            "stars": 11048
+            "stars": 11049
           }
         },
         {
@@ -1077,7 +1077,7 @@
                 "archived": false,
                 "id": 27561102,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:15:01Z",
+                "last_commit": "2026-08-19T13:33:36Z",
                 "owner": "stamparm",
                 "repo": "maltrail",
                 "stars": 8583
@@ -1353,7 +1353,7 @@
             "last_commit": "2026-08-18T23:42:38Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10905
+            "stars": 10907
           }
         },
         {
@@ -1563,7 +1563,7 @@
                 "last_commit": "2026-07-30T10:20:13Z",
                 "owner": "juanfont",
                 "repo": "headscale",
-                "stars": 43000
+                "stars": 43002
               }
             },
             {
@@ -1578,7 +1578,7 @@
                 "last_commit": "2026-08-15T18:32:33Z",
                 "owner": "hwdsl2",
                 "repo": "setup-ipsec-vpn",
-                "stars": 28361
+                "stars": 28362
               }
             },
             {
@@ -1593,7 +1593,7 @@
                 "last_commit": "2026-08-18T20:35:59Z",
                 "owner": "slackhq",
                 "repo": "nebula",
-                "stars": 17628
+                "stars": 17629
               }
             },
             {
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:21:43.835Z",
+    "last_updated": "2026-08-19T13:57:33.647Z",
     "original_repository": "fabacab/awesome-cybersecurity-blueteam",
     "original_repository_id": 142053144,
     "original_repository_sha": "d2231996bf67d4b5f86f09825a128b951324f915",

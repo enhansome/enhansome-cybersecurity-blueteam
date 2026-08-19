@@ -93,7 +93,7 @@ See also [Security Information and Event Management (SIEM)](#security-informatio
 
 See also [asecure.cloud/tools](https://asecure.cloud/tools/).
 
-* [gVisor](https://github.com/google/gvisor) ⭐ 19,113 | 🐛 780 | 🌐 Go | 📅 2026-08-19 - Application kernel, written in Go, that implements a substantial portion of the Linux system surface to provide an isolation boundary between the application and the host kernel.
+* [gVisor](https://github.com/google/gvisor) ⭐ 19,116 | 🐛 780 | 🌐 Go | 📅 2026-08-19 - Application kernel, written in Go, that implements a substantial portion of the Linux system surface to provide an isolation boundary between the application and the host kernel.
 * [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,620 | 🐛 266 | 🌐 Python | 📅 2026-08-19 - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
 * [Scout Suite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,795 | 🐛 295 | 🌐 Python | 📅 2025-09-23 - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
 * [Principal Mapper (PMapper)](https://github.com/nccgroup/PMapper) ⭐ 1,574 | 🐛 36 | 🌐 Python | 📅 2024-08-02 - Quickly evaluate IAM permissions in AWS via script and library capable of identifying risks in the configuration of AWS Identity and Access Management (IAM) for an AWS account or an AWS organization.
@@ -115,7 +115,7 @@ See also [§ Service and performance monitoring](#service-and-performance-monito
 
 See also [Kubernetes-Security.info](https://kubernetes-security.info/).
 
-* [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) ⭐ 9,250 | 🐛 70 | 🌐 Go | 📅 2026-08-19 - Kubernetes controller and tool for one-way encrypted Secrets.
+* [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) ⭐ 9,250 | 🐛 71 | 🌐 Go | 📅 2026-08-19 - Kubernetes controller and tool for one-way encrypted Secrets.
 * [kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) ⚠️ Archived - Allows exporting the often missed Kubernetes events to various outputs so that they can be used for observability or alerting purposes.
 * [k-rail](https://github.com/cruise-automation/k-rail) ⚠️ Archived - Workload policy enforcement tool for Kubernetes.
 * [Managed Kubernetes Inspection Tool (MKIT)](https://github.com/darkbitio/mkit) ⚠️ Archived - Query and validate several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
@@ -148,10 +148,10 @@ See also [Transport-layer defenses](#transport-layer-defenses).
 
 See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops) ⭐ 5,456 | 🐛 78 | 📅 2024-05-11.
 
-* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 37,497 | 🐛 249 | 🌐 Go | 📅 2026-08-19 - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
-* [SOPS](https://github.com/mozilla/sops) ⭐ 22,857 | 🐛 439 | 🌐 Go | 📅 2026-08-17 - Editor of encrypted files that supports YAML, JSON, ENV, INI and binary formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, and PGP.
+* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 37,498 | 🐛 249 | 🌐 Go | 📅 2026-08-19 - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
+* [SOPS](https://github.com/mozilla/sops) ⭐ 22,859 | 🐛 439 | 🌐 Go | 📅 2026-08-17 - Editor of encrypted files that supports YAML, JSON, ENV, INI and binary formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, and PGP.
 * [Git Secrets](https://github.com/awslabs/git-secrets) ⭐ 13,377 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - Prevents you from committing passwords and other sensitive information to a git repository.
-* [Clair](https://github.com/coreos/clair) ⭐ 11,048 | 🐛 60 | 🌐 Go | 📅 2026-08-11 - Static analysis tool to probe for vulnerabilities introduced via application container (e.g., Docker) images.
+* [Clair](https://github.com/coreos/clair) ⭐ 11,049 | 🐛 60 | 🌐 Go | 📅 2026-08-11 - Static analysis tool to probe for vulnerabilities introduced via application container (e.g., Docker) images.
 * [BlackBox](https://github.com/StackExchange/blackbox) ⚠️ Archived - Safely store secrets in Git/Mercurial/Subversion by encrypting them "at rest" using GnuPG.
 * [helm-secrets](https://github.com/jkroepke/helm-secrets) ⭐ 2,025 | 🐛 1 | 🌐 Shell | 📅 2026-08-18 - Helm plugin that helps manage secrets with Git workflow and stores them anywhere, backed by SOPS.
 * [Bane](https://github.com/genuinetools/bane) ⭐ 1,230 | 🐛 4 | 🌐 Go | 📅 2020-09-17 - Custom and better AppArmor profile generator for Docker containers.
@@ -238,7 +238,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 1
 
 ### Sandboxes
 
-* [Bubblewrap](https://github.com/containers/bubblewrap) ⭐ 8,417 | 🐛 191 | 🌐 C | 📅 2026-06-02 - Sandboxing tool for use by unprivileged Linux users capable of restricting access to parts of the operating system or user data.
+* [Bubblewrap](https://github.com/containers/bubblewrap) ⭐ 8,418 | 🐛 191 | 🌐 C | 📅 2026-06-02 - Sandboxing tool for use by unprivileged Linux users capable of restricting access to parts of the operating system or user data.
 * [Dangerzone](https://dangerzone.rocks/) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF.
 * [Firejail](https://firejail.wordpress.com/) - SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
 
@@ -331,7 +331,7 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 
 (Also known as *secure-by-default baselines* and *implemented best practices*.)
 
-* [Bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) ⭐ 10,824 | 🐛 183 | 🌐 Python | 📅 2026-08-19 - Docker image of an NginX configuration and scripts implementing many defensive techniques for Web sites.
+* [Bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) ⭐ 10,825 | 🐛 183 | 🌐 Python | 📅 2026-08-19 - Docker image of an NginX configuration and scripts implementing many defensive techniques for Web sites.
 
 ## Security monitoring
 
@@ -369,7 +369,7 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) �
 
 ### Service and performance monitoring
 
-See also [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring) ⭐ 34,927 | 🐛 0 | 📅 2026-08-19.
+See also [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring) ⭐ 34,928 | 🐛 0 | 📅 2026-08-19.
 
 * [Icinga](https://icinga.com/) - Modular redesign of Nagios with pluggable user interfaces and an expanded set of data connectors, collectors, and reporting tools.
 * [Locust](https://locust.io/) - Open source load testing tool in which you can define user behaviour with Python code and swarm your system with millions of simultaneous users.
@@ -400,7 +400,7 @@ See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-det
 
 See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,545 | 🐛 117 | 📅 2026-05-31.
 
-* [Sigma](https://github.com/Neo23x0/sigma) ⭐ 10,905 | 🐛 192 | 🌐 Python | 📅 2026-08-18 - Generic signature format for SIEM systems, offering an open signature format that allows you to describe relevant log events in a straightforward manner.
+* [Sigma](https://github.com/Neo23x0/sigma) ⭐ 10,907 | 🐛 192 | 🌐 Python | 📅 2026-08-18 - Generic signature format for SIEM systems, offering an open signature format that allows you to describe relevant log events in a straightforward manner.
 * [YARA](https://github.com/VirusTotal/yara) ⭐ 9,814 | 🐛 174 | 🌐 C | 📅 2026-08-19 - Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples, described as "the pattern matching swiss army knife" for file patterns and signatures.
 * [Viper](https://github.com/viper-framework/viper) ⚠️ Archived - Binary analysis and management framework enabling easy organization of malware and exploit samples.
 * [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) ⚠️ Archived - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
@@ -441,9 +441,9 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 504 | 🐛 3 | �
 
 ### Overlay and Virtual Private Networks (VPNs)
 
-* [Headscale](https://github.com/juanfont/headscale) ⭐ 43,000 | 🐛 146 | 🌐 Go | 📅 2026-07-30 - Open source, self-hosted implementation of the Tailscale control server.
-* [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) ⭐ 28,361 | 🐛 1 | 🌐 Shell | 📅 2026-08-15 - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
-* [Nebula](https://github.com/slackhq/nebula) ⭐ 17,628 | 🐛 106 | 🌐 Go | 📅 2026-08-18 - Completely open source and self-hosted, scalable overlay networking tool with a focus on performance, simplicity, and security, inspired by tinc.
+* [Headscale](https://github.com/juanfont/headscale) ⭐ 43,002 | 🐛 146 | 🌐 Go | 📅 2026-07-30 - Open source, self-hosted implementation of the Tailscale control server.
+* [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) ⭐ 28,362 | 🐛 1 | 🌐 Shell | 📅 2026-08-15 - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
+* [Nebula](https://github.com/slackhq/nebula) ⭐ 17,629 | 🐛 106 | 🌐 Go | 📅 2026-08-18 - Completely open source and self-hosted, scalable overlay networking tool with a focus on performance, simplicity, and security, inspired by tinc.
 * [Innernet](https://github.com/tonarino/innernet) ⭐ 5,532 | 🐛 83 | 🌐 Rust | 📅 2026-07-28 - Free Software private network system that uses WireGuard under the hood, made to be self-hosted.
 * [Firezone](https://www.firezone.dev/) - Self-hosted VPN server built on WireGuard that supports MFA and SSO.
 * [OpenVPN](https://openvpn.net/) - Longstanding Free Software traditional SSL/TLS-based virtual private network.
