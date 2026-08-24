@@ -15,7 +15,7 @@
             "last_commit": "2024-05-07T12:53:36Z",
             "owner": "USArmyResearchLab",
             "repo": "Dshell",
-            "stars": 5491
+            "stars": 5492
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-22T14:18:23Z",
             "owner": "apple",
             "repo": "password-manager-resources",
-            "stars": 4791
+            "stars": 4792
           }
         },
         {
@@ -175,10 +175,10 @@
             "archived": false,
             "id": 131212638,
             "language": "Go",
-            "last_commit": "2026-08-22T03:52:46Z",
+            "last_commit": "2026-08-24T06:16:16Z",
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19141
+            "stars": 19146
           }
         },
         {
@@ -190,10 +190,10 @@
             "archived": false,
             "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-22T20:33:52Z",
+            "last_commit": "2026-08-24T13:16:24Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14657
+            "stars": 14666
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7796
+            "stars": 7798
           }
         },
         {
@@ -255,7 +255,7 @@
                 "last_commit": "2026-08-20T08:57:38Z",
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
-                "stars": 9256
+                "stars": 9257
               }
             },
             {
@@ -356,7 +356,7 @@
             "last_commit": "2026-08-21T13:35:07Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37569
+            "stars": 37586
           }
         },
         {
@@ -368,10 +368,10 @@
             "archived": false,
             "id": 40684033,
             "language": "Go",
-            "last_commit": "2026-08-17T17:56:38Z",
+            "last_commit": "2026-08-24T09:19:35Z",
             "owner": "getsops",
             "repo": "sops",
-            "stars": 22898
+            "stars": 22906
           }
         },
         {
@@ -431,7 +431,7 @@
             "last_commit": "2026-08-21T19:25:08Z",
             "owner": "jkroepke",
             "repo": "helm-secrets",
-            "stars": 2026
+            "stars": 2025
           }
         },
         {
@@ -505,6 +505,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "OneFuzz",
+              "description": "Self-hosted Fuzzing-as-a-Service (FaaS) platform.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 283030627,
+                "language": "C#",
+                "last_commit": "2023-11-01T09:22:49Z",
+                "owner": "microsoft",
+                "repo": "onefuzz",
+                "stars": 2825
+              }
+            }
+          ],
+          "description": "See also Awesome-Fuzzing.",
+          "node_type": "group",
+          "title": "Fuzzing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "AllStar",
               "description": "GitHub App installed on organizations or repositories to set and enforce security policies.",
               "children": [],
@@ -512,7 +534,7 @@
                 "archived": false,
                 "id": 370773729,
                 "language": "Go",
-                "last_commit": "2026-08-19T21:27:39Z",
+                "last_commit": "2026-08-24T13:37:02Z",
                 "owner": "ossf",
                 "repo": "allstar",
                 "stars": 1443
@@ -552,7 +574,7 @@
                 "last_commit": "2024-08-07T19:02:32Z",
                 "owner": "notaryproject",
                 "repo": "notary",
-                "stars": 3287
+                "stars": 3286
               }
             },
             {
@@ -593,7 +615,7 @@
             "last_commit": "2026-08-20T13:20:14Z",
             "owner": "thinkst",
             "repo": "canarytokens",
-            "stars": 2117
+            "stars": 2134
           }
         },
         {
@@ -610,6 +632,28 @@
             "repo": "manuka",
             "stars": 348
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Endlessh",
+              "description": "SSH tarpit that slowly sends an endless banner.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168906122,
+                "language": "C",
+                "last_commit": "2024-06-03T13:22:10Z",
+                "owner": "skeeto",
+                "repo": "endlessh",
+                "stars": 8543
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tarpits"
         }
       ],
       "title": "Honeypots"
@@ -646,6 +690,28 @@
             "repo": "ukip",
             "stars": 546
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bubblewrap",
+              "description": "Sandboxing tool for use by unprivileged Linux users capable of restricting access to parts of the operating system or user data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51868010,
+                "language": "C",
+                "last_commit": "2026-06-02T18:05:07Z",
+                "owner": "containers",
+                "repo": "bubblewrap",
+                "stars": 8464
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sandboxes"
         }
       ],
       "title": "Host-based tools"
@@ -665,7 +731,7 @@
             "last_commit": "2026-08-02T02:31:38Z",
             "owner": "JPCERTCC",
             "repo": "LogonTracer",
-            "stars": 3218
+            "stars": 3219
           }
         },
         {
@@ -697,7 +763,7 @@
                 "last_commit": "2026-08-07T20:44:18Z",
                 "owner": "certsocietegenerale",
                 "repo": "FIR",
-                "stars": 2028
+                "stars": 2030
               }
             },
             {
@@ -835,7 +901,7 @@
             "last_commit": "2026-07-09T23:04:09Z",
             "owner": "jtesta",
             "repo": "ssh-audit",
-            "stars": 4278
+            "stars": 4280
           }
         },
         {
@@ -850,7 +916,7 @@
             "last_commit": "2025-11-05T13:11:51Z",
             "owner": "AltraMayor",
             "repo": "gatekeeper",
-            "stars": 1631
+            "stars": 1632
           }
         }
       ],
@@ -886,7 +952,7 @@
             "last_commit": "2024-08-13T22:18:01Z",
             "owner": "x0rz",
             "repo": "phishing_catcher",
-            "stars": 1817
+            "stars": 1819
           }
         },
         {
@@ -901,7 +967,7 @@
             "last_commit": "2026-07-29T20:37:23Z",
             "owner": "SSLMate",
             "repo": "certspotter",
-            "stars": 1168
+            "stars": 1169
           }
         },
         {
@@ -1052,6 +1118,21 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Starbase",
+          "description": "Collects assets and relationships from services and systems into an intuitive graph view to offer graph-based security analysis for everyone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 438390286,
+            "language": "TypeScript",
+            "last_commit": "2026-02-19T19:10:21Z",
+            "owner": "JupiterOne",
+            "repo": "starbase",
+            "stars": 362
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -1077,10 +1158,10 @@
                 "archived": false,
                 "id": 27561102,
                 "language": "Python",
-                "last_commit": "2026-08-23T13:28:44Z",
+                "last_commit": "2026-08-24T12:46:35Z",
                 "owner": "stamparm",
                 "repo": "maltrail",
-                "stars": 8583
+                "stars": 8584
               }
             },
             {
@@ -1092,10 +1173,10 @@
                 "archived": false,
                 "id": 4927517,
                 "language": "C",
-                "last_commit": "2026-08-21T20:08:58Z",
+                "last_commit": "2026-08-23T23:40:36Z",
                 "owner": "arkime",
                 "repo": "arkime",
-                "stars": 7452
+                "stars": 7455
               }
             },
             {
@@ -1122,10 +1203,10 @@
                 "archived": false,
                 "id": 932314,
                 "language": "C++",
-                "last_commit": "2026-08-23T12:11:16Z",
+                "last_commit": "2026-08-24T13:05:14Z",
                 "owner": "tenzir",
                 "repo": "tenzir",
-                "stars": 756
+                "stars": 757
               }
             },
             {
@@ -1197,6 +1278,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "osquery",
+              "description": "Operating system instrumentation framework for macOS, Windows, and Linux, exposing the OS as a high-performance relational database that can be queried with a SQL-like syntax.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22394357,
+                "language": "C++",
+                "last_commit": "2026-08-19T18:14:44Z",
+                "owner": "osquery",
+                "repo": "osquery",
+                "stars": 23486
+              }
+            }
+          ],
+          "description": "See also awesome-sysadmin#monitoring.",
+          "node_type": "group",
+          "title": "Service and performance monitoring"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "GRR Rapid Response",
               "description": "Incident response framework focused on remote live forensics consisting of a Python agent installed on assets and Python-based server infrastructure enabling analysts to quickly triage attacks and perform analysis remotely.",
               "children": [],
@@ -1207,7 +1310,7 @@
                 "last_commit": "2026-05-12T12:52:29Z",
                 "owner": "google",
                 "repo": "grr",
-                "stars": 5089
+                "stars": 5088
               }
             },
             {
@@ -1353,7 +1456,7 @@
             "last_commit": "2026-08-18T23:42:38Z",
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10929
+            "stars": 10933
           }
         },
         {
@@ -1368,7 +1471,7 @@
             "last_commit": "2026-08-21T08:34:22Z",
             "owner": "VirusTotal",
             "repo": "yara",
-            "stars": 9818
+            "stars": 9821
           }
         },
         {
@@ -1480,6 +1583,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "HASSH",
+              "description": "Network fingerprinting standard which can be used to identify specific client and server SSH implementations.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 149488482,
+                "language": "Python",
+                "last_commit": "2025-05-01T17:29:53Z",
+                "owner": "salesforce",
+                "repo": "hassh",
+                "stars": 553
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fingerprinting"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "YARA Rules",
               "description": "Project covering the need for IT security researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible.",
               "children": [],
@@ -1550,6 +1675,21 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "MITMEngine",
+          "description": "Golang library for server-side detection of TLS interception events.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 142086497,
+            "language": "Go",
+            "last_commit": "2024-04-17T17:50:17Z",
+            "owner": "cloudflare",
+            "repo": "mitmengine",
+            "stars": 813
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -1560,10 +1700,10 @@
                 "archived": false,
                 "id": 273871859,
                 "language": "Go",
-                "last_commit": "2026-07-30T10:20:13Z",
+                "last_commit": "2026-08-24T11:46:11Z",
                 "owner": "juanfont",
                 "repo": "headscale",
-                "stars": 43101
+                "stars": 43135
               }
             },
             {
@@ -1578,7 +1718,7 @@
                 "last_commit": "2026-08-22T23:08:05Z",
                 "owner": "hwdsl2",
                 "repo": "setup-ipsec-vpn",
-                "stars": 28378
+                "stars": 28382
               }
             },
             {
@@ -1593,7 +1733,7 @@
                 "last_commit": "2026-08-21T23:33:42Z",
                 "owner": "slackhq",
                 "repo": "nebula",
-                "stars": 17639
+                "stars": 17647
               }
             },
             {
@@ -1805,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:46:25.919Z",
+    "last_updated": "2026-08-24T13:57:22.074Z",
     "original_repository": "fabacab/awesome-cybersecurity-blueteam",
     "original_repository_id": 142053144,
     "original_repository_sha": "d2231996bf67d4b5f86f09825a128b951324f915",
