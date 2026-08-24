@@ -94,7 +94,7 @@ See also [Security Information and Event Management (SIEM)](#security-informatio
 See also [asecure.cloud/tools](https://asecure.cloud/tools/).
 
 * [gVisor](https://github.com/google/gvisor) ⭐ 19,146 | 🐛 813 | 🌐 Go | 📅 2026-08-24 - Application kernel, written in Go, that implements a substantial portion of the Linux system surface to provide an isolation boundary between the application and the host kernel.
-* [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,666 | 🐛 285 | 🌐 Python | 📅 2026-08-24 - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
+* [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,666 | 🐛 283 | 🌐 Python | 📅 2026-08-24 - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
 * [Scout Suite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,798 | 🐛 295 | 🌐 Python | 📅 2025-09-23 - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
 * [Principal Mapper (PMapper)](https://github.com/nccgroup/PMapper) ⭐ 1,575 | 🐛 36 | 🌐 Python | 📅 2024-08-02 - Quickly evaluate IAM permissions in AWS via script and library capable of identifying risks in the configuration of AWS Identity and Access Management (IAM) for an AWS account or an AWS organization.
 * [Aaia](https://github.com/rams3sh/Aaia) ⭐ 296 | 🐛 4 | 🌐 Python | 📅 2026-01-23 - Helps in visualizing AWS IAM and Organizations in a graph format with help of Neo4j.
@@ -148,10 +148,10 @@ See also [Transport-layer defenses](#transport-layer-defenses).
 
 See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops) ⭐ 5,460 | 🐛 81 | 📅 2024-05-11.
 
-* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 37,586 | 🐛 253 | 🌐 Go | 📅 2026-08-21 - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
+* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 37,587 | 🐛 254 | 🌐 Go | 📅 2026-08-21 - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
 * [SOPS](https://github.com/mozilla/sops) ⭐ 22,906 | 🐛 445 | 🌐 Go | 📅 2026-08-24 - Editor of encrypted files that supports YAML, JSON, ENV, INI and binary formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, and PGP.
 * [Git Secrets](https://github.com/awslabs/git-secrets) ⭐ 13,379 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - Prevents you from committing passwords and other sensitive information to a git repository.
-* [Clair](https://github.com/coreos/clair) ⭐ 11,051 | 🐛 60 | 🌐 Go | 📅 2026-08-11 - Static analysis tool to probe for vulnerabilities introduced via application container (e.g., Docker) images.
+* [Clair](https://github.com/coreos/clair) ⭐ 11,051 | 🐛 59 | 🌐 Go | 📅 2026-08-24 - Static analysis tool to probe for vulnerabilities introduced via application container (e.g., Docker) images.
 * [BlackBox](https://github.com/StackExchange/blackbox) ⚠️ Archived - Safely store secrets in Git/Mercurial/Subversion by encrypting them "at rest" using GnuPG.
 * [helm-secrets](https://github.com/jkroepke/helm-secrets) ⭐ 2,025 | 🐛 1 | 🌐 Shell | 📅 2026-08-21 - Helm plugin that helps manage secrets with Git workflow and stores them anywhere, backed by SOPS.
 * [Bane](https://github.com/genuinetools/bane) ⭐ 1,230 | 🐛 4 | 🌐 Go | 📅 2020-09-17 - Custom and better AppArmor profile generator for Docker containers.
@@ -216,7 +216,7 @@ See also [§ Dependency confusion](#dependency-confusion).
 
 See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,532 | 🐛 22 | 🌐 Python | 📅 2026-06-01.
 
-* [CanaryTokens](https://github.com/thinkst/canarytokens) ⭐ 2,134 | 🐛 5 | 🌐 Python | 📅 2026-08-20 - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/).
+* [CanaryTokens](https://github.com/thinkst/canarytokens) ⭐ 2,135 | 🐛 5 | 🌐 Python | 📅 2026-08-20 - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/).
 * [Manuka](https://github.com/spaceraccoon/manuka) ⭐ 348 | 🐛 6 | 🌐 Shell | 📅 2023-05-02 - Open-sources intelligence (OSINT) honeypot that monitors reconnaissance attempts by threat actors and generates actionable intelligence for Blue Teamers.
 * [Kushtaka](https://kushtaka.org) - Sustainable all-in-one honeypot and honeytoken orchestrator for under-resourced blue teams.
 
@@ -351,7 +351,7 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) �
 * [Arkime](https://github.com/arkime/arkime) ⭐ 7,455 | 🐛 38 | 🌐 C | 📅 2026-08-23 - Augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.
 * [Stenographer](https://github.com/google/stenographer) ⚠️ Archived - Full-packet-capture utility for buffering packets to disk for intrusion detection and incident response purposes.
 * [VAST](https://github.com/tenzir/vast) ⭐ 757 | 🐛 0 | 🌐 C++ | 📅 2026-08-24 - Free and open-source network telemetry engine for data-driven security investigations.
-* [Real Intelligence Threat Analysis (RITA)](https://github.com/activecm/rita) ⭐ 625 | 🐛 25 | 🌐 Go | 📅 2026-06-17 - Open source framework for network traffic analysis that ingests Zeek logs and detects beaconing, DNS tunneling, and more.
+* [Real Intelligence Threat Analysis (RITA)](https://github.com/activecm/rita) ⭐ 626 | 🐛 25 | 🌐 Go | 📅 2026-06-17 - Open source framework for network traffic analysis that ingests Zeek logs and detects beaconing, DNS tunneling, and more.
 * [ChopShop](https://github.com/MITRECND/chopshop) ⚠️ Archived - Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.
 * [Respounder](https://github.com/codeexpress/respounder) ⭐ 323 | 🐛 1 | 🌐 Go | 📅 2019-06-15 - Detects the presence of the Responder LLMNR/NBT-NS/MDNS poisoner on a network.
 * [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2018-06-13 - Catch spoofed NetBIOS Name Service (NBNS) responses and alert to an email or log file.
@@ -441,8 +441,8 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 505 | 🐛 3 | �
 
 ### Overlay and Virtual Private Networks (VPNs)
 
-* [Headscale](https://github.com/juanfont/headscale) ⭐ 43,135 | 🐛 153 | 🌐 Go | 📅 2026-08-24 - Open source, self-hosted implementation of the Tailscale control server.
-* [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) ⭐ 28,382 | 🐛 1 | 🌐 Shell | 📅 2026-08-22 - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
+* [Headscale](https://github.com/juanfont/headscale) ⭐ 43,136 | 🐛 153 | 🌐 Go | 📅 2026-08-24 - Open source, self-hosted implementation of the Tailscale control server.
+* [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) ⭐ 28,383 | 🐛 1 | 🌐 Shell | 📅 2026-08-22 - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
 * [Nebula](https://github.com/slackhq/nebula) ⭐ 17,647 | 🐛 98 | 🌐 Go | 📅 2026-08-21 - Completely open source and self-hosted, scalable overlay networking tool with a focus on performance, simplicity, and security, inspired by tinc.
 * [Innernet](https://github.com/tonarino/innernet) ⭐ 5,535 | 🐛 83 | 🌐 Rust | 📅 2026-07-28 - Free Software private network system that uses WireGuard under the hood, made to be self-hosted.
 * [Firezone](https://www.firezone.dev/) - Self-hosted VPN server built on WireGuard that supports MFA and SSO.

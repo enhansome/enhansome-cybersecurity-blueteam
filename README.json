@@ -190,7 +190,7 @@
             "archived": false,
             "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-24T13:16:24Z",
+            "last_commit": "2026-08-24T14:19:02Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
             "stars": 14666
@@ -356,7 +356,7 @@
             "last_commit": "2026-08-21T13:35:07Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37586
+            "stars": 37587
           }
         },
         {
@@ -398,7 +398,7 @@
             "archived": false,
             "id": 46140633,
             "language": "Go",
-            "last_commit": "2026-08-11T23:04:19Z",
+            "last_commit": "2026-08-24T14:06:46Z",
             "owner": "quay",
             "repo": "clair",
             "stars": 11051
@@ -615,7 +615,7 @@
             "last_commit": "2026-08-20T13:20:14Z",
             "owner": "thinkst",
             "repo": "canarytokens",
-            "stars": 2134
+            "stars": 2135
           }
         },
         {
@@ -1221,7 +1221,7 @@
                 "last_commit": "2026-06-17T18:58:01Z",
                 "owner": "activecm",
                 "repo": "rita",
-                "stars": 625
+                "stars": 626
               }
             },
             {
@@ -1703,7 +1703,7 @@
                 "last_commit": "2026-08-24T11:46:11Z",
                 "owner": "juanfont",
                 "repo": "headscale",
-                "stars": 43135
+                "stars": 43136
               }
             },
             {
@@ -1718,7 +1718,7 @@
                 "last_commit": "2026-08-22T23:08:05Z",
                 "owner": "hwdsl2",
                 "repo": "setup-ipsec-vpn",
-                "stars": 28382
+                "stars": 28383
               }
             },
             {
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:57:22.074Z",
+    "last_updated": "2026-08-24T14:22:52.534Z",
     "original_repository": "fabacab/awesome-cybersecurity-blueteam",
     "original_repository_id": 142053144,
     "original_repository_sha": "d2231996bf67d4b5f86f09825a128b951324f915",
