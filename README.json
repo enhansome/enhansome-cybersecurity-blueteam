@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dshell is a network forensic analysis framework.",
+            "homepage": null,
             "id": 28135622,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-07T12:53:36Z",
+            "open_issues": 4,
             "owner": "USArmyResearchLab",
             "repo": "Dshell",
-            "stars": 5493
+            "stars": 5493,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A place for creators and users of password managers to collaborate on resources to make password management better.",
+            "homepage": null,
             "id": 248599368,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T00:20:19Z",
+            "open_issues": 111,
             "owner": "apple",
             "repo": "password-manager-resources",
-            "stars": 4799
+            "stars": 4799,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated Encryption Framework",
+            "homepage": null,
             "id": 47423688,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-25T23:09:10Z",
+            "open_issues": 159,
             "owner": "latchset",
             "repo": "clevis",
-            "stars": 1246
+            "stars": 1247,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -60,12 +75,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modular file scanning/analysis framework",
+                "homepage": "http://multiscanner.readthedocs.io/",
                 "id": 33875018,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-10-08T14:12:14Z",
+                "open_issues": 39,
                 "owner": "mitre",
                 "repo": "multiscanner",
-                "stars": 621
+                "stars": 621,
+                "topics": [
+                  "analysis-framework",
+                  "analytic-machines",
+                  "antivirus",
+                  "cuckoo",
+                  "linux",
+                  "malware",
+                  "malware-analysis",
+                  "malware-analyzer",
+                  "malware-research",
+                  "metadata",
+                  "python",
+                  "python-script",
+                  "scanning",
+                  "yara"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -76,12 +111,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy-to-use and lightweight API wrapper for Censys APIs.",
+                "homepage": "https://censys-python.rtfd.io/",
                 "id": 43082714,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:41:18Z",
+                "open_issues": 1,
                 "owner": "censys",
                 "repo": "censys-python",
-                "stars": 469
+                "stars": 469,
+                "topics": [
+                  "api",
+                  "attack-surface-management",
+                  "censys",
+                  "hacktoberfest",
+                  "pypi",
+                  "python",
+                  "python3",
+                  "search"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -92,12 +141,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OASIS TC Open Repository: Python APIs for STIX 2",
+                "homepage": "https://stix2.readthedocs.io/",
                 "id": 81590907,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-02-12T06:21:36Z",
+                "open_issues": 67,
                 "owner": "oasis-open",
                 "repo": "cti-python-stix2",
-                "stars": 435
+                "stars": 435,
+                "topics": [
+                  "cti",
+                  "cyber-threat-intelligence",
+                  "json",
+                  "oasis",
+                  "python",
+                  "stix",
+                  "stix2"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -108,12 +170,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Rust library for constructing, sending, capturing, and decoding network packets",
+                "homepage": "https://docs.rs/crafter",
                 "id": 6434669,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-23T02:11:25Z",
+                "open_issues": 5,
                 "owner": "pellegre",
                 "repo": "libcrafter",
-                "stars": 311
+                "stars": 311,
+                "topics": [
+                  "libpcap",
+                  "network-programming",
+                  "networking",
+                  "packet-crafting",
+                  "packet-decoder",
+                  "packet-parsing",
+                  "packet-sniffing",
+                  "packets",
+                  "pcap",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -124,12 +202,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal, consistent Python API for building integrations with malware sandboxes.",
+                "homepage": "https://inquest.readthedocs.io/projects/sandboxapi/",
                 "id": 117734039,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2024-01-31T18:25:07Z",
+                "open_issues": 0,
                 "owner": "pedramamini",
                 "repo": "sandboxapi",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "api-client",
+                  "automated-analysis",
+                  "library",
+                  "malware-analysis",
+                  "python",
+                  "sandbox"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -140,12 +230,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PowerShell Module to interact with VirusTotal",
+                "homepage": null,
                 "id": 15853907,
                 "language": "PowerShell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-01-16T20:05:44Z",
+                "open_issues": 7,
                 "owner": "darkoperator",
                 "repo": "Posh-VirusTotal",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -156,12 +251,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pythonic interface to the Internet Storm Center / DShield API.",
+                "homepage": "https://dshield.readthedocs.io/en/latest/",
                 "id": 21389489,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-05-23T06:54:04Z",
+                "open_issues": 1,
                 "owner": "rshipp",
                 "repo": "python-dshield",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "api-client",
+                  "dshield",
+                  "infosec",
+                  "isc",
+                  "library",
+                  "python",
+                  "sans",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             }
@@ -183,12 +292,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Application Kernel for Containers",
+            "homepage": "https://gvisor.dev",
             "id": 131212638,
             "language": "Go",
-            "last_commit": "2026-08-28T23:00:56Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:08:36Z",
+            "open_issues": 838,
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19184
+            "stars": 19185,
+            "topics": [
+              "containers",
+              "docker",
+              "kernel",
+              "kubernetes",
+              "linux",
+              "oci",
+              "sandbox"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -199,12 +321,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.",
+            "homepage": "https://prowler.com",
             "id": 66474729,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:17:40Z",
+            "open_issues": 337,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14712
+            "stars": 14713,
+            "topics": [
+              "aws",
+              "azure",
+              "cis-benchmark",
+              "cloud",
+              "cloudsecurity",
+              "compliance",
+              "cspm",
+              "devsecops",
+              "forensics",
+              "gcp",
+              "gdpr",
+              "hacktoberfest",
+              "hardening",
+              "iam",
+              "multi-cloud",
+              "python",
+              "security",
+              "security-audit",
+              "security-hardening",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -215,12 +363,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-Cloud Security Auditing Tool",
+            "homepage": null,
             "id": 155376283,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2025-09-23T18:33:52Z",
+            "open_issues": 296,
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7803
+            "stars": 7803,
+            "topics": [
+              "auditing",
+              "aws",
+              "azure",
+              "cloud",
+              "gcp",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -231,12 +391,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for quickly evaluating IAM permissions in AWS.",
+            "homepage": null,
             "id": 134493334,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2024-08-02T15:38:29Z",
+            "open_issues": 36,
             "owner": "nccgroup",
             "repo": "PMapper",
-            "stars": 1576
+            "stars": 1576,
+            "topics": [
+              "aws",
+              "botocore",
+              "cloudsecurity",
+              "iam",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -247,12 +418,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AWS Identity and Access Management Visualizer and Anomaly Finder",
+            "homepage": null,
             "id": 199247716,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-23T11:25:02Z",
+            "open_issues": 4,
             "owner": "rams3sh",
             "repo": "Aaia",
-            "stars": 296
+            "stars": 296,
+            "topics": [
+              "aws",
+              "graph",
+              "iam",
+              "neo4j",
+              "pentesting",
+              "security",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -265,12 +449,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Kubernetes controller and tool for one-way encrypted Secrets",
+                "homepage": null,
                 "id": 92702519,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T19:57:36Z",
+                "open_issues": 67,
                 "owner": "bitnami",
                 "repo": "sealed-secrets",
-                "stars": 9262
+                "stars": 9262,
+                "topics": [
+                  "devops-workflow",
+                  "encrypt-secrets",
+                  "gitops",
+                  "kubernetes",
+                  "kubernetes-secrets"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -281,12 +476,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Export Kubernetes events to multiple destinations with routing and filtering",
+                "homepage": null,
                 "id": 219929887,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2022-08-31T11:33:33Z",
+                "open_issues": 79,
                 "owner": "opsgenie",
                 "repo": "kubernetes-event-exporter",
-                "stars": 1048
+                "stars": 1048,
+                "topics": [
+                  "alerting",
+                  "events",
+                  "exporting",
+                  "kubernetes",
+                  "observability"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -297,12 +503,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Kubernetes security tool for policy enforcement",
+                "homepage": null,
                 "id": 212681483,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-12T15:58:33Z",
+                "open_issues": 22,
                 "owner": "cruise-automation",
                 "repo": "k-rail",
-                "stars": 440
+                "stars": 440,
+                "topics": [
+                  "k8s",
+                  "kubernetes",
+                  "kubernetes-security",
+                  "policy",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -313,12 +530,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.",
+                "homepage": "https://darkbit.io",
                 "id": 250376894,
                 "language": "Dockerfile",
+                "license": "MIT",
                 "last_commit": "2021-09-16T13:46:12Z",
+                "open_issues": 1,
                 "owner": "darkbitio",
                 "repo": "mkit",
-                "stars": 396
+                "stars": 396,
+                "topics": [
+                  "aks",
+                  "aws",
+                  "azure",
+                  "eks",
+                  "gcp",
+                  "gke",
+                  "k8s",
+                  "kubernetes",
+                  "kubernetes-security"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -329,12 +561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 202445732,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-16T02:43:27Z",
+                "open_issues": 24,
                 "owner": "keikoproj",
                 "repo": "kube-forensics",
-                "stars": 234
+                "stars": 234,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -345,12 +582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utility that exposes the expiry of TLS certificates as Prometheus metrics",
+                "homepage": null,
                 "id": 173339546,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-06-08T18:03:51Z",
+                "open_issues": 3,
                 "owner": "muxinc",
                 "repo": "certificate-expiry-monitor",
-                "stars": 170
+                "stars": 170,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             }
@@ -372,12 +614,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+            "homepage": "https://trivy.dev",
             "id": 180687624,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:50:22Z",
+            "open_issues": 258,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37678
+            "stars": 37679,
+            "topics": [
+              "containers",
+              "devsecops",
+              "docker",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "iac",
+              "infrastructure-as-code",
+              "kubernetes",
+              "misconfiguration",
+              "security",
+              "security-tools",
+              "vulnerability",
+              "vulnerability-detection",
+              "vulnerability-scanners"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -388,12 +651,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and flexible tool for managing secrets",
+            "homepage": "https://getsops.io",
             "id": 40684033,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-26T19:19:37Z",
+            "open_issues": 443,
             "owner": "getsops",
             "repo": "sops",
-            "stars": 22954
+            "stars": 22955,
+            "topics": [
+              "aws",
+              "azure",
+              "devops",
+              "gcp",
+              "pgp",
+              "secret-distribution",
+              "secret-management",
+              "security",
+              "sops"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -404,12 +682,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prevents you from committing secrets and credentials into git repositories",
+            "homepage": null,
             "id": 39160150,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:31:20Z",
+            "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13384
+            "stars": 13384,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -420,12 +703,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vulnerability Static Analysis for Containers",
+            "homepage": "https://quay.github.io/clair/",
             "id": 46140633,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T23:03:45Z",
+            "open_issues": 59,
             "owner": "quay",
             "repo": "clair",
-            "stars": 11053
+            "stars": 11053,
+            "topics": [
+              "clair",
+              "containers",
+              "docker",
+              "go",
+              "kubernetes",
+              "oci",
+              "oci-image",
+              "static-analysis",
+              "vulnerabilities"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -436,12 +734,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Safely store secrets in Git/Mercurial/Subversion",
+            "homepage": null,
             "id": 18495400,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-11-05T15:44:20Z",
+            "open_issues": 55,
             "owner": "StackExchange",
             "repo": "blackbox",
-            "stars": 6770
+            "stars": 6770,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -452,12 +755,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A helm plugin that help manage secrets with Git workflow and store them anywhere",
+            "homepage": "https://github.com/jkroepke/helm-secrets/wiki",
             "id": 156066420,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:46:17Z",
+            "open_issues": 1,
             "owner": "jkroepke",
             "repo": "helm-secrets",
-            "stars": 2025
+            "stars": 2025,
+            "topics": [
+              "argocd",
+              "decryption",
+              "encryption",
+              "encryption-tool",
+              "gpg",
+              "helm",
+              "helm-chart",
+              "helm-charts",
+              "helm-plugin",
+              "helm-plugins",
+              "k8s",
+              "kms",
+              "kubernetes",
+              "kubernetes-secrets",
+              "secret-management",
+              "secrets",
+              "secrets-management",
+              "secrets-stored",
+              "sops",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -468,12 +797,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom & better AppArmor profile generator for Docker containers.",
+            "homepage": null,
             "id": 43922256,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-09-17T20:10:45Z",
+            "open_issues": 4,
             "owner": "genuinetools",
             "repo": "bane",
-            "stars": 1229
+            "stars": 1229,
+            "topics": [
+              "apparmor",
+              "apparmor-profile",
+              "cli",
+              "containers",
+              "docker",
+              "linux",
+              "opencontainers",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -486,12 +829,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dependency Combobulator",
+                "homepage": null,
                 "id": 426342117,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-10T08:26:30Z",
+                "open_issues": 33,
                 "owner": "apiiro",
                 "repo": "combobulator",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "dependency-confusion",
+                  "sdlc",
+                  "secure-coding",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -502,12 +855,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Compare the contents of your hosted and proxy repositories for coordinate collisions",
+                "homepage": null,
                 "id": 337200624,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-05-25T14:03:41Z",
+                "open_issues": 1,
                 "owner": "sonatype-nexus-community",
                 "repo": "repo-diff",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -518,12 +876,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mitigate security concerns of Dependency Confusion supply chain security risks",
+                "homepage": null,
                 "id": 368465729,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-10T17:19:49Z",
+                "open_issues": 10,
                 "owner": "snyk-labs",
                 "repo": "snync",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             }
@@ -541,12 +904,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A self-hosted Fuzzing-As-A-Service platform",
+                "homepage": null,
                 "id": 283030627,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-11-01T09:22:49Z",
+                "open_issues": 233,
                 "owner": "microsoft",
                 "repo": "onefuzz",
-                "stars": 2824
+                "stars": 2824,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             }
@@ -564,12 +932,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub App to set and enforce security policies",
+                "homepage": null,
                 "id": 370773729,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T13:37:02Z",
+                "open_issues": 63,
                 "owner": "ossf",
                 "repo": "allstar",
-                "stars": 1444
+                "stars": 1444,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -580,12 +953,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tang binding daemon",
+                "homepage": null,
                 "id": 46134608,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-03-06T16:28:54Z",
+                "open_issues": 41,
                 "owner": "latchset",
                 "repo": "tang",
-                "stars": 724
+                "stars": 725,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             }
@@ -603,12 +981,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Notary is a project that allows anyone to have trust over arbitrary collections of data",
+                "homepage": null,
                 "id": 37743436,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-07T19:02:32Z",
+                "open_issues": 332,
                 "owner": "notaryproject",
                 "repo": "notary",
-                "stars": 3286
+                "stars": 3286,
+                "topics": [
+                  "cncf",
+                  "docker",
+                  "trust"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -619,12 +1006,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chart signing and verification with GnuPG for Helm.",
+                "homepage": null,
                 "id": 87456161,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2020-02-20T17:42:16Z",
+                "open_issues": 6,
                 "owner": "technosophos",
                 "repo": "helm-gpg",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "gnupg",
+                  "gpg",
+                  "helm",
+                  "helm-plugin",
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             }
@@ -646,12 +1044,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Canarytokens helps track activity and actions on your network",
+            "homepage": "http://canarytokens.org",
             "id": 39949815,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:08:34Z",
+            "open_issues": 5,
             "owner": "thinkst",
             "repo": "canarytokens",
-            "stars": 2142
+            "stars": 2142,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -662,12 +1065,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular OSINT honeypot for blue teamers",
+            "homepage": null,
             "id": 248790856,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2023-05-02T11:30:14Z",
+            "open_issues": 6,
             "owner": "spaceraccoon",
             "repo": "manuka",
-            "stars": 348
+            "stars": 348,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -680,12 +1088,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SSH tarpit that slowly sends an endless banner",
+                "homepage": null,
                 "id": 168906122,
                 "language": "C",
+                "license": "Unlicense",
                 "last_commit": "2024-06-03T13:22:10Z",
+                "open_issues": 50,
                 "owner": "skeeto",
                 "repo": "endlessh",
-                "stars": 8544
+                "stars": 8543,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             }
@@ -707,12 +1120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Artillery Project is an open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods.",
+            "homepage": null,
             "id": 33740868,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-06T01:14:11Z",
+            "open_issues": 25,
             "owner": "BinaryDefense",
             "repo": "artillery",
-            "stars": 1039
+            "stars": 1039,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -723,12 +1141,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "USB Keystroke Injection Protection",
+            "homepage": null,
             "id": 243324241,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-09T20:31:03Z",
+            "open_issues": 4,
             "owner": "google",
             "repo": "ukip",
-            "stars": 546
+            "stars": 546,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -741,12 +1164,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Low-level unprivileged sandboxing tool used by Flatpak and similar projects",
+                "homepage": null,
                 "id": 51868010,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:51:29Z",
+                "open_issues": 193,
                 "owner": "containers",
                 "repo": "bubblewrap",
-                "stars": 8521
+                "stars": 8524,
+                "topics": [
+                  "linux-containers",
+                  "user-namespaces"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             }
@@ -768,12 +1199,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Investigate malicious Windows logon by visualizing and analyzing Windows event log",
+            "homepage": null,
             "id": 111882253,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-02T02:31:38Z",
+            "open_issues": 21,
             "owner": "JPCERTCC",
             "repo": "LogonTracer",
-            "stars": 3224
+            "stars": 3225,
+            "topics": [
+              "active-directory",
+              "blueteam",
+              "dfir",
+              "event-log",
+              "javascript",
+              "python-3",
+              "security",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -784,12 +1229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python installable command line utiltity for mitigation of host and key compromises. ",
+            "homepage": null,
             "id": 63271084,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-07-23T09:00:58Z",
+            "open_issues": 14,
             "owner": "ThreatResponse",
             "repo": "aws_ir",
-            "stars": 344
+            "stars": 344,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -802,12 +1252,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast Incident Response",
+                "homepage": null,
                 "id": 32028167,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-07T20:44:18Z",
+                "open_issues": 15,
                 "owner": "certsocietegenerale",
                 "repo": "FIR",
-                "stars": 2032
+                "stars": 2032,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -818,12 +1273,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DPS' Lightweight Investigation Notebook",
+                "homepage": null,
                 "id": 41309236,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-31T20:47:55Z",
+                "open_issues": 46,
                 "owner": "DefensePointSecurity",
                 "repo": "threat_note",
-                "stars": 435
+                "stars": 435,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -834,12 +1294,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for the Computer Incident Response Team :computer:",
+                "homepage": null,
                 "id": 44545775,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-04-17T16:43:44Z",
+                "open_issues": 0,
                 "owner": "opensourcesec",
                 "repo": "CIRTKit",
-                "stars": 152
+                "stars": 152,
+                "topics": [
+                  "carbonblack",
+                  "dfir",
+                  "malware-analysis",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             }
@@ -857,12 +1327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OS X Auditor is a free Mac OS X computer forensics tool",
+                "homepage": null,
                 "id": 10801048,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2020-07-27T22:34:25Z",
+                "open_issues": 8,
                 "owner": "jipegit",
                 "repo": "OSXAuditor",
-                "stars": 3135
+                "stars": 3135,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -873,12 +1348,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A forensic evidence collection & analysis toolkit for OS X",
+                "homepage": "http://yelp.github.io/osxcollector",
                 "id": 22615096,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-06-19T15:40:49Z",
+                "open_issues": 18,
                 "owner": "YelpArchive",
                 "repo": "osxcollector",
-                "stars": 1894
+                "stars": 1894,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -889,12 +1369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Untitled Goose Tool is a robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure Active Directory (AzureAD), Azure, and M365 environments.",
+                "homepage": null,
                 "id": 617618053,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2026-02-11T01:49:34Z",
+                "open_issues": 17,
                 "owner": "cisagov",
                 "repo": "untitledgoosetool",
-                "stars": 962
+                "stars": 962,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -905,12 +1390,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.",
+                "homepage": null,
                 "id": 64792339,
                 "language": "Batchfile",
+                "license": "NOASSERTION",
                 "last_commit": "2021-02-21T09:23:23Z",
+                "open_issues": 4,
                 "owner": "diogo-fernan",
                 "repo": "ir-rescue",
-                "stars": 488
+                "stars": 488,
+                "topics": [
+                  "bash",
+                  "batch",
+                  "cybersecurity",
+                  "dfir",
+                  "forensics",
+                  "incident-response",
+                  "malware",
+                  "nirsoft",
+                  "sysinternals",
+                  "unix",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -921,12 +1423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Remote Memory Acquisition Tool ",
+                "homepage": "https://www.threatresponse.cloud",
                 "id": 65315497,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-09-22T15:58:11Z",
+                "open_issues": 13,
                 "owner": "ThreatResponse",
                 "repo": "margaritashotgun",
-                "stars": 253
+                "stars": 253,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             }
@@ -948,12 +1455,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)",
+            "homepage": null,
             "id": 104118612,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-09T23:04:09Z",
+            "open_issues": 39,
             "owner": "jtesta",
             "repo": "ssh-audit",
-            "stars": 4286
+            "stars": 4286,
+            "topics": [
+              "auditing",
+              "security",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -964,12 +1480,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The first open-source DDoS protection system",
+            "homepage": "https://github.com/AltraMayor/gatekeeper/wiki",
             "id": 62745741,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2025-11-05T13:11:51Z",
+            "open_issues": 96,
             "owner": "AltraMayor",
             "repo": "gatekeeper",
-            "stars": 1634
+            "stars": 1634,
+            "topics": [
+              "anti-ddos",
+              "ddos",
+              "ddos-mitigation",
+              "ddos-protection",
+              "dpdk"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         }
@@ -986,12 +1513,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phishing Campaign Toolkit",
+            "homepage": null,
             "id": 15592447,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-04T09:42:12Z",
+            "open_issues": 2,
             "owner": "CrimsonForge-io",
             "repo": "king-phisher",
-            "stars": 2584
+            "stars": 2584,
+            "topics": [
+              "king-phisher",
+              "phishing",
+              "python",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1002,12 +1539,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phishing catcher using Certstream",
+            "homepage": "https://blog.0day.rocks/catching-phishing-using-certstream-97177f0d499a",
             "id": 109819521,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-13T22:18:01Z",
+            "open_issues": 44,
             "owner": "x0rz",
             "repo": "phishing_catcher",
-            "stars": 1821
+            "stars": 1821,
+            "topics": [
+              "certificate-transparency",
+              "osint",
+              "phishing",
+              "threat-intelligence",
+              "threatintel"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1018,12 +1566,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight Certificate Transparency Log Monitor",
+            "homepage": "https://sslmate.com/certspotter",
             "id": 64409269,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-29T20:37:23Z",
+            "open_issues": 20,
             "owner": "SSLMate",
             "repo": "certspotter",
-            "stars": 1171
+            "stars": 1171,
+            "topics": [
+              "certificate-transparency",
+              "pki",
+              "security",
+              "webpki",
+              "x509"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1034,12 +1593,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swordphish Phishing Awareness Tool",
+            "homepage": "https://societe-generale.github.io/swordphish-awareness/",
             "id": 155852557,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-09-22T12:24:25Z",
+            "open_issues": 6,
             "owner": "societe-generale",
             "repo": "swordphish-awareness",
-            "stars": 226
+            "stars": 226,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1050,12 +1614,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":mailbox: The Phishing Intelligence Engine - An Active Defense PowerShell Framework for Phishing Defense with Office 365",
+            "homepage": null,
             "id": 109992079,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2020-04-13T16:08:07Z",
+            "open_issues": 8,
             "owner": "LogRhythm-Labs",
             "repo": "PIE",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1066,12 +1635,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scans SPF and DMARC records for issues that could allow email spoofing.",
+            "homepage": null,
             "id": 160101861,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-08T01:28:02Z",
+            "open_issues": 13,
             "owner": "serain",
             "repo": "mailspoof",
-            "stars": 137
+            "stars": 137,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1082,12 +1656,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Outlook add-in companion to report suspicious mail easily",
+            "homepage": null,
             "id": 156724757,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2022-09-01T00:40:01Z",
+            "open_issues": 3,
             "owner": "certsocietegenerale",
             "repo": "NotifySecurity",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         }
@@ -1104,12 +1683,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolset to make a system look as if it was the victim of an APT attack",
+            "homepage": "https://www.nextron-systems.com",
             "id": 120097644,
             "language": "Batchfile",
+            "license": "MIT",
             "last_commit": "2025-09-23T10:20:43Z",
+            "open_issues": 4,
             "owner": "NextronSystems",
             "repo": "APTSimulator",
-            "stars": 2764
+            "stars": 2764,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1120,12 +1704,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A utility to safely generate malicious network traffic patterns and evaluate controls.",
+            "homepage": "https://alphasoc.com",
             "id": 116955127,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-04T11:25:53Z",
+            "open_issues": 24,
             "owner": "alphasoc",
             "repo": "flightsim",
-            "stars": 1363
+            "stars": 1363,
+            "topics": [
+              "intrusion-detection",
+              "monitoring",
+              "security",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1136,12 +1730,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Virtual Machine for Adversary Emulation and Threat Hunting",
+            "homepage": null,
             "id": 125263758,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2025-01-22T10:50:09Z",
+            "open_issues": 7,
             "owner": "redhuntlabs",
             "repo": "RedHunt-OS",
-            "stars": 1318
+            "stars": 1318,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1152,12 +1751,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An information security preparedness tool to do adversarial simulation.",
+            "homepage": null,
             "id": 109185631,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-04-01T06:34:25Z",
+            "open_issues": 13,
             "owner": "uber-common",
             "repo": "metta",
-            "stars": 1145
+            "stars": 1145,
+            "topics": [
+              "adversarial",
+              "celery",
+              "infosec",
+              "network",
+              "networking",
+              "python",
+              "redis",
+              "security",
+              "simulation",
+              "uber",
+              "vagrant",
+              "virtualbox",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1168,12 +1786,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Security Incidents In A Box!\"   A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue- & Red Team drills and sensor / alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. Build event sequences (\"narratives\") to simulate realistic scenarios and generate corresponding network and filesystem artifacts.",
+            "homepage": null,
             "id": 105951361,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-05-27T15:00:56Z",
+            "open_issues": 4,
             "owner": "TryCatchHCF",
             "repo": "DumpsterFire",
-            "stars": 1039
+            "stars": 1039,
+            "topics": [
+              "automation",
+              "blue-team",
+              "blue-teams",
+              "hacking",
+              "hacking-tool",
+              "hacking-tools",
+              "infosec",
+              "pentest",
+              "pentest-tool",
+              "pentest-tools",
+              "pentesting",
+              "red-team",
+              "red-teams",
+              "security",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         }
@@ -1190,12 +1829,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graph-based security analysis for everyone",
+            "homepage": null,
             "id": 438390286,
             "language": "TypeScript",
+            "license": "MPL-2.0",
             "last_commit": "2026-02-19T19:10:21Z",
+            "open_issues": 15,
             "owner": "JupiterOne",
             "repo": "starbase",
-            "stars": 362
+            "stars": 362,
+            "topics": [
+              "analysis",
+              "aws",
+              "azure",
+              "cypher",
+              "gcp",
+              "graph",
+              "hack",
+              "hacktoberfest",
+              "neo4j",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1208,12 +1863,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.",
+                "homepage": null,
                 "id": 269137265,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-23T16:05:00Z",
+                "open_issues": 13,
                 "owner": "google",
                 "repo": "tsunami-security-scanner",
-                "stars": 8609
+                "stars": 8609,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1224,12 +1884,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Malicious traffic detection system",
+                "homepage": "https://www.sekuripy.hr/labs/maltrail/",
                 "id": 27561102,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T22:24:13Z",
+                "open_issues": 24,
                 "owner": "stamparm",
                 "repo": "maltrail",
-                "stars": 8587
+                "stars": 8588,
+                "topics": [
+                  "attack-detection",
+                  "intrusion-detection",
+                  "malware",
+                  "network-monitoring",
+                  "python",
+                  "rust",
+                  "security",
+                  "sensor"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1240,12 +1914,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arkime is an open source, large scale, full packet capturing, indexing, and database system.",
+                "homepage": "https://arkime.com",
                 "id": 4927517,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T21:07:01Z",
+                "open_issues": 34,
                 "owner": "arkime",
                 "repo": "arkime",
-                "stars": 7459
+                "stars": 7459,
+                "topics": [
+                  "big-data",
+                  "c",
+                  "javascript",
+                  "network-monitoring",
+                  "nsm",
+                  "packet-capture",
+                  "pcap",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1256,12 +1944,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.  Discussion/announcements at stenographer@googlegroups.com",
+                "homepage": null,
                 "id": 25178571,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-26T14:40:13Z",
+                "open_issues": 50,
                 "owner": "google",
                 "repo": "stenographer",
-                "stars": 1796
+                "stars": 1796,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1272,12 +1965,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tenzir is the data pipeline engine for security teams.",
+                "homepage": "https://docs.tenzir.com",
                 "id": 932314,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T11:48:53Z",
+                "open_issues": 0,
                 "owner": "tenzir",
                 "repo": "tenzir",
-                "stars": 757
+                "stars": 757,
+                "topics": [
+                  "dataops",
+                  "hacktoberfest",
+                  "incident-response",
+                  "investigation",
+                  "netflow",
+                  "pcap",
+                  "pipelines",
+                  "secdataops",
+                  "security",
+                  "siem",
+                  "sigma",
+                  "soc",
+                  "suricata",
+                  "threathunting",
+                  "zeek"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1288,12 +2002,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.",
+                "homepage": "https://www.activecountermeasures.com/free-tools/rita/",
                 "id": 821147194,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-17T18:58:01Z",
+                "open_issues": 25,
                 "owner": "activecm",
                 "repo": "rita",
-                "stars": 630
+                "stars": 630,
+                "topics": [
+                  "anomaly-detection",
+                  "beacons",
+                  "blue-team",
+                  "c2",
+                  "c2-detection",
+                  "command-and-control",
+                  "cyber-security",
+                  "incident-response",
+                  "intrusion-detection",
+                  "log-analysis",
+                  "network-monitoring",
+                  "network-traffic-analysis",
+                  "security-tools",
+                  "threat-hunting",
+                  "threat-intelligence",
+                  "zeek"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1304,12 +2040,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Protocol Analysis/Decoder Framework",
+                "homepage": "https://chopshop.readthedocs.org/",
                 "id": 5860398,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-19T21:28:41Z",
+                "open_issues": 12,
                 "owner": "MITRECND",
                 "repo": "chopshop",
-                "stars": 495
+                "stars": 495,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1320,12 +2061,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Respounder detects presence of responder in the network.",
+                "homepage": null,
                 "id": 120255758,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2019-06-15T07:51:13Z",
+                "open_issues": 1,
                 "owner": "codeexpress",
                 "repo": "respounder",
-                "stars": 323
+                "stars": 323,
+                "topics": [
+                  "attack-defense",
+                  "attack-prevention",
+                  "blue-team",
+                  "computer-security",
+                  "golang",
+                  "hackers",
+                  "llmnr",
+                  "network-security",
+                  "network-security-monitoring",
+                  "responder"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1336,12 +2093,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to catch spoofed NBNS responses.",
+                "homepage": null,
                 "id": 12598027,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-06-13T03:51:53Z",
+                "open_issues": 1,
                 "owner": "NetSPI",
                 "repo": "SpoofSpotter",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             }
@@ -1359,12 +2121,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQL powered operating system instrumentation, monitoring, and analytics.",
+                "homepage": "https://osquery.io",
                 "id": 22394357,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T16:33:00Z",
+                "open_issues": 632,
                 "owner": "osquery",
                 "repo": "osquery",
-                "stars": 23527
+                "stars": 23527,
+                "topics": [
+                  "hacktoberfest",
+                  "intrusion-detection",
+                  "monitoring",
+                  "security",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             }
@@ -1382,12 +2155,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GRR Rapid Response: remote live forensics for incident response",
+                "homepage": "https://grr-doc.readthedocs.io/",
                 "id": 14909673,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-12T12:52:29Z",
+                "open_issues": 191,
                 "owner": "google",
                 "repo": "grr",
-                "stars": 5088
+                "stars": 5088,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1398,12 +2176,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Hunting ELK",
+                "homepage": null,
                 "id": 84987850,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2024-06-01T14:05:15Z",
+                "open_issues": 60,
                 "owner": "Cyb3rWard0g",
                 "repo": "HELK",
-                "stars": 3931
+                "stars": 3931,
+                "topics": [
+                  "docker",
+                  "dockerhub",
+                  "elastic",
+                  "elasticsearch",
+                  "elk",
+                  "elk-stack",
+                  "hunting",
+                  "hunting-platforms",
+                  "jupyter-notebook",
+                  "kibana",
+                  "logstash",
+                  "spark",
+                  "threat-hunting"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1414,12 +2211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 68729413,
                 "language": "PowerShell",
+                "license": "GPL-3.0",
                 "last_commit": "2023-10-14T17:06:57Z",
+                "open_issues": 13,
                 "owner": "sans-blue-team",
                 "repo": "DeepBlueCLI",
-                "stars": 2428
+                "stars": 2428,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1430,12 +2232,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DEPRECATED - MozDef: Mozilla Enterprise Defense Platform",
+                "homepage": null,
                 "id": 16940917,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2021-11-02T17:20:27Z",
+                "open_issues": 0,
                 "owner": "mozilla",
                 "repo": "MozDef",
-                "stars": 2161
+                "stars": 2161,
+                "topics": [
+                  "abandoned",
+                  "elasticsearch",
+                  "elk",
+                  "elk-stack",
+                  "python",
+                  "security",
+                  "siem",
+                  "unmaintained"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1446,12 +2262,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PowerForensics provides an all in one platform for live disk forensic analysis",
+                "homepage": null,
                 "id": 31820011,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-11-16T10:31:37Z",
+                "open_issues": 64,
                 "owner": "Invoke-IR",
                 "repo": "PowerForensics",
-                "stars": 1443
+                "stars": 1443,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1462,12 +2283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CimSweep is a suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely across all versions of Windows.",
+                "homepage": null,
                 "id": 50709748,
                 "language": "PowerShell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-08-19T12:50:44Z",
+                "open_issues": 2,
                 "owner": "mattifestation",
                 "repo": "CimSweep",
-                "stars": 656
+                "stars": 656,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1478,12 +2304,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":rocket: PSRecon gathers data from a remote Windows host using PowerShell (v2 or later), organizes the data into folders, hashes all extracted data, hashes PowerShell and various system properties, and sends the data off to the security team. The data can be pushed to a share, sent over email, or retained locally.",
+                "homepage": null,
                 "id": 40107037,
                 "language": "PowerShell",
+                "license": "Apache-2.0",
                 "last_commit": "2017-07-29T15:03:04Z",
+                "open_issues": 4,
                 "owner": "gfoss",
                 "repo": "PSRecon",
-                "stars": 494
+                "stars": 494,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1494,12 +2325,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Powershell Threat Hunting Module",
+                "homepage": null,
                 "id": 65433467,
                 "language": "PowerShell",
+                "license": "Apache-2.0",
                 "last_commit": "2016-09-21T00:31:47Z",
+                "open_issues": 0,
                 "owner": "Infocyte",
                 "repo": "PSHunt",
-                "stars": 293
+                "stars": 293,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1510,12 +2346,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collecting & Hunting for IOCs with gusto and style",
+                "homepage": null,
                 "id": 131747684,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-08-01T11:12:02Z",
+                "open_issues": 8,
                 "owner": "rastrea2r",
                 "repo": "rastrea2r",
-                "stars": 238
+                "stars": 238,
+                "topics": [
+                  "hunting",
+                  "ioc",
+                  "security-tools",
+                  "threat"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             }
@@ -1537,12 +2383,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Main Sigma Rule Repository",
+            "homepage": "https://sigmahq.io/",
             "id": 77276660,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T23:42:38Z",
+            "open_issues": 209,
             "owner": "SigmaHQ",
             "repo": "sigma",
-            "stars": 10956
+            "stars": 10956,
+            "topics": [
+              "elasticsearch",
+              "ids",
+              "logging",
+              "monitoring",
+              "security",
+              "siem",
+              "signatures",
+              "splunk",
+              "sysmon"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1553,12 +2414,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The pattern matching swiss knife",
+            "homepage": "https://virustotal.github.io/yara/",
             "id": 7037996,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-25T10:54:31Z",
+            "open_issues": 170,
             "owner": "VirusTotal",
             "repo": "yara",
-            "stars": 9836
+            "stars": 9836,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1569,12 +2435,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Binary analysis and management framework",
+            "homepage": null,
             "id": 14262436,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-06-07T13:49:30Z",
+            "open_issues": 58,
             "owner": "viper-framework",
             "repo": "viper",
-            "stars": 1562
+            "stars": 1562,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1585,12 +2456,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Provides situational awareness of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks in support of network security assessments. #nsacyber",
+            "homepage": null,
             "id": 47986278,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2020-02-24T16:24:07Z",
+            "open_issues": 24,
             "owner": "nsacyber",
             "repo": "GRASSMARLIN",
-            "stars": 1059
+            "stars": 1059,
+            "topics": [
+              "analysis",
+              "control-systems",
+              "ics",
+              "ics-scada",
+              "monitor",
+              "monitoring",
+              "network",
+              "networking",
+              "scada",
+              "scada-security",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1601,12 +2489,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extract and aggregate threat intelligence.",
+            "homepage": "https://inquest.readthedocs.io/projects/threatingestor/",
             "id": 102033255,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-26T15:01:24Z",
+            "open_issues": 15,
             "owner": "pedramamini",
             "repo": "ThreatIngestor",
-            "stars": 924
+            "stars": 924,
+            "topics": [
+              "dfir",
+              "fraud-detection",
+              "indicators-of-compromise",
+              "intelligence-gathering",
+              "ioc",
+              "malware-research",
+              "misp",
+              "osint",
+              "security-tools",
+              "soar",
+              "threat-analysis",
+              "threat-feeds",
+              "threat-hunting",
+              "threat-intelligence",
+              "threat-intelligence-platform",
+              "threat-sharing",
+              "threatintel",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1617,12 +2529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool to gather Threat Intelligence indicators from publicly available sources",
+            "homepage": "https://www.mlsecproject.org/",
             "id": 17064089,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2019-03-14T01:32:24Z",
+            "open_issues": 45,
             "owner": "mlsecproject",
             "repo": "combine",
-            "stars": 654
+            "stars": 654,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1633,12 +2550,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🚌 Threat Bus – A threat intelligence dissemination layer for open-source security tools.",
+            "homepage": "https://docs.tenzir.com/threatbus",
             "id": 168499203,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-03-17T13:44:28Z",
+            "open_issues": 1,
             "owner": "tenzir",
             "repo": "threatbus",
-            "stars": 270
+            "stars": 270,
+            "topics": [
+              "cif",
+              "cif3",
+              "ids",
+              "misp",
+              "opencti",
+              "opencti-connector",
+              "sightings",
+              "threat-bus",
+              "threat-hunting",
+              "threat-intelligence",
+              "threat-intelligence-data",
+              "threatintel",
+              "zeek"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1649,12 +2585,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multithreaded threat Intelligence gathering built with Python3",
+            "homepage": null,
             "id": 17264589,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-01-23T17:50:23Z",
+            "open_issues": 3,
             "owner": "opensourcesec",
             "repo": "Forager",
-            "stars": 178
+            "stars": 178,
+            "topics": [
+              "carbonblack",
+              "python",
+              "threatintel"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1665,12 +2610,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Credential Phish Analysis and Automation",
+            "homepage": null,
             "id": 90075123,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2018-08-22T19:22:36Z",
+            "open_issues": 15,
             "owner": "hadojae",
             "repo": "DATA",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1683,12 +2633,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "HASSH is a network fingerprinting standard which can be used to identify specific Client and Server SSH implementations. The fingerprints can be easily stored, searched and shared in the form of a small MD5 fingerprint.",
+                "homepage": null,
                 "id": 149488482,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-05-01T17:29:53Z",
+                "open_issues": 4,
                 "owner": "salesforce",
                 "repo": "hassh",
-                "stars": 553
+                "stars": 553,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             }
@@ -1706,12 +2661,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository of yara rules",
+                "homepage": null,
                 "id": 33764615,
                 "language": "YARA",
+                "license": "GPL-2.0",
                 "last_commit": "2024-04-17T00:12:25Z",
+                "open_issues": 28,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4882
+                "stars": 4882,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1722,12 +2682,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 318029147,
                 "language": "YARA",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-03-05T10:19:46Z",
+                "open_issues": 2,
                 "owner": "mandiant",
                 "repo": "red_team_tool_countermeasures",
-                "stars": 2665
+                "stars": 2665,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1738,12 +2703,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Indicators of Compromises (IOC) of our various investigations",
+                "homepage": "https://www.welivesecurity.com",
                 "id": 17713436,
                 "language": "YARA",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-06-25T15:55:53Z",
+                "open_issues": 0,
                 "owner": "eset",
                 "repo": "malware-ioc",
-                "stars": 1981
+                "stars": 1981,
+                "topics": [
+                  "ioc",
+                  "malware",
+                  "misp",
+                  "yara"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1754,12 +2729,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 321092899,
                 "language": "YARA",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-06-01T13:34:23Z",
+                "open_issues": 7,
                 "owner": "mandiant",
                 "repo": "sunburst_countermeasures",
-                "stars": 563
+                "stars": 563,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             }
@@ -1781,12 +2761,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A MITM (monster-in-the-middle) detection tool. Used to build MALCOLM:",
+            "homepage": "https://malcolm.cloudflare.com",
             "id": 142086497,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-04-17T17:50:17Z",
+            "open_issues": 9,
             "owner": "cloudflare",
             "repo": "mitmengine",
-            "stars": 813
+            "stars": 813,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1799,12 +2784,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source, self-hosted implementation of the Tailscale control server",
+                "homepage": null,
                 "id": 273871859,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T11:13:49Z",
+                "open_issues": 145,
                 "owner": "juanfont",
                 "repo": "headscale",
-                "stars": 43277
+                "stars": 43284,
+                "topics": [
+                  "tailscale",
+                  "tailscale-control-server",
+                  "tailscale-server",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1815,12 +2810,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and management scripts.",
+                "homepage": null,
                 "id": 49217007,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T03:45:03Z",
+                "open_issues": 1,
                 "owner": "hwdsl2",
                 "repo": "setup-ipsec-vpn",
-                "stars": 28397
+                "stars": 28398,
+                "topics": [
+                  "alpine-linux",
+                  "bash",
+                  "cisco-ipsec",
+                  "debian",
+                  "encryption",
+                  "ikev2",
+                  "installer",
+                  "ipsec",
+                  "l2tp",
+                  "libreswan",
+                  "linux",
+                  "network",
+                  "privacy",
+                  "raspberry-pi",
+                  "security",
+                  "self-hosted",
+                  "ubuntu",
+                  "vpn",
+                  "vpn-client",
+                  "vpn-server"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1831,12 +2852,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+                "homepage": null,
                 "id": 222172014,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:00:12Z",
+                "open_issues": 99,
                 "owner": "slackhq",
                 "repo": "nebula",
-                "stars": 17664
+                "stars": 17664,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -1847,12 +2873,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A private network system that uses WireGuard under the hood.",
+                "homepage": "https://blog.tonari.no/introducing-innernet",
                 "id": 352725385,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-28T12:00:53Z",
+                "open_issues": 83,
                 "owner": "tonarino",
                 "repo": "innernet",
-                "stars": 5535
+                "stars": 5535,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             }
@@ -1874,12 +2905,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A binary authorization and monitoring system for macOS",
+            "homepage": "https://santa.dev",
             "id": 25009012,
             "language": "Objective-C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-05T13:23:36Z",
+            "open_issues": 74,
             "owner": "google",
             "repo": "santa",
-            "stars": 4510
+            "stars": 4510,
+            "topics": [
+              "allowlist",
+              "authorization",
+              "blocklist",
+              "endpoint-security",
+              "macos",
+              "santa",
+              "security",
+              "system-extension"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1890,12 +2935,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily configure macOS security settings from the terminal.",
+            "homepage": null,
             "id": 125603504,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-24T07:31:58Z",
+            "open_issues": 10,
             "owner": "alichtman",
             "repo": "stronghold",
-            "stars": 1191
+            "stars": 1191,
+            "topics": [
+              "command-line",
+              "command-line-tool",
+              "hardening",
+              "macos",
+              "macos-setup",
+              "osx",
+              "security",
+              "security-hardening"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1906,12 +2965,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav)",
+            "homepage": null,
             "id": 28251562,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-11-24T02:47:52Z",
+            "open_issues": 1,
             "owner": "essandess",
             "repo": "macOS-Fortress",
-            "stars": 451
+            "stars": 451,
+            "topics": [
+              "adblock",
+              "adblocking",
+              "anti-virus",
+              "antivirus",
+              "clamav",
+              "clamd",
+              "clamdscan",
+              "easylist",
+              "firewall",
+              "macos",
+              "packet-filtering",
+              "pf",
+              "privacy-enhancing-technologies",
+              "privacy-tools",
+              "privoxy",
+              "proxy",
+              "proxy-configuration",
+              "proxy-server",
+              "squid",
+              "tracker"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         }
@@ -1928,12 +3013,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.",
+            "homepage": null,
             "id": 78663120,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2025-08-10T15:21:12Z",
+            "open_issues": 12,
             "owner": "hardentools",
             "repo": "hardentools",
-            "stars": 3105
+            "stars": 3105,
+            "topics": [
+              "hardening",
+              "security",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1944,12 +3038,34 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings. #nsacyber",
+            "homepage": null,
             "id": 52628378,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-24T16:24:21Z",
+            "open_issues": 14,
             "owner": "nsacyber",
             "repo": "Windows-Secure-Host-Baseline",
-            "stars": 1588
+            "stars": 1588,
+            "topics": [
+              "adobe-reader",
+              "applocker",
+              "audit",
+              "auditing",
+              "certificates",
+              "chrome-browser",
+              "compliance",
+              "group-policy",
+              "internet-explorer",
+              "microsoft-office",
+              "nessus",
+              "windows",
+              "windows-10",
+              "windows-firewall",
+              "windows-server",
+              "windows-server-2016"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1960,12 +3076,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scan files or process memory for CobaltStrike beacons and parse their configuration",
+            "homepage": null,
             "id": 292872581,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-08-19T10:02:58Z",
+            "open_issues": 3,
             "owner": "Apr4h",
             "repo": "CobaltStrikeScan",
-            "stars": 919
+            "stars": 919,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1976,12 +3097,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scans for accessibility tools backdoors via RDP",
+            "homepage": null,
             "id": 65097384,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2018-03-16T15:59:41Z",
+            "open_issues": 15,
             "owner": "linuz",
             "repo": "Sticky-Keys-Slayer",
-            "stars": 348
+            "stars": 348,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -1992,12 +3118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Log newly created WMI consumers and processes to the Windows Application event log",
+            "homepage": null,
             "id": 65037781,
             "language": "PowerShell",
+            "license": null,
             "last_commit": "2018-02-28T22:25:46Z",
+            "open_issues": 2,
             "owner": "realparisi",
             "repo": "WMI_Monitor",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -2008,12 +3139,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The opposite of Ruler, provides blue teams with the ability to detect Ruler usage against Exchange.",
+            "homepage": null,
             "id": 104345910,
             "language": "Go",
+            "license": "CC0-1.0",
             "last_commit": "2017-10-11T07:15:40Z",
+            "open_issues": 3,
             "owner": "sensepost",
             "repo": "notruler",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "blue-team",
+              "security-audit",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T23:02:45.413Z"
         },
@@ -2026,12 +3166,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bloodhound Reporting for Blue and Purple Teams",
+                "homepage": null,
                 "id": 260397709,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-15T11:44:12Z",
+                "open_issues": 7,
                 "owner": "PlumHound",
                 "repo": "PlumHound",
-                "stars": 1311
+                "stars": 1311,
+                "topics": [
+                  "active",
+                  "active-directory",
+                  "activedirectory",
+                  "attack-paths",
+                  "bloodhound",
+                  "bloodhoundad",
+                  "bloodhoundad-cypher-queries",
+                  "bloodhoundad-pathfinding-engine",
+                  "bluehound",
+                  "blueteam",
+                  "cypher-query",
+                  "directory",
+                  "infosec",
+                  "neo4j",
+                  "penetration-testing",
+                  "plumhound-tasks",
+                  "purple-teams",
+                  "purpleteam",
+                  "redteam",
+                  "reporting-tool"
+                ]
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             },
@@ -2042,12 +3208,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Active Directory Control Paths auditing and graphing tools",
+                "homepage": "https://www.sstic.org/2014/presentation/chemins_de_controle_active_directory/",
                 "id": 21575698,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2020-12-17T19:43:04Z",
+                "open_issues": 5,
                 "owner": "ANSSI-FR",
                 "repo": "AD-control-paths",
-                "stars": 676
+                "stars": 676,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:02:45.413Z"
             }
@@ -2061,15 +3232,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:02:45.413Z",
+    "last_updated": "2026-08-29T04:15:14.048Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.",
+      "homepage": null,
       "id": 142053144,
       "language": null,
+      "license": null,
       "last_commit": "2024-07-15T08:05:27Z",
+      "open_issues": 76,
       "owner": "fabacab",
       "repo": "awesome-cybersecurity-blueteam",
-      "stars": 5545
+      "stars": 5545,
+      "topics": [
+        "awesome-list",
+        "blue-team",
+        "computer-security",
+        "cybersecurity",
+        "defensive-security",
+        "infosec",
+        "security"
+      ]
     },
     "original_repository_sha": "d2231996bf67d4b5f86f09825a128b951324f915",
     "enhanced_repository": "enhansome/enhansome-cybersecurity-blueteam",
