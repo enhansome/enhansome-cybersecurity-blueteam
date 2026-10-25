@@ -64,8 +64,8 @@ Many cybersecurity professionals enable racist state violence, wittingly or unwi
 
 ## Automation and Convention
 
-* [DShell](https://github.com/USArmyResearchLab/Dshell) ⭐ 5,501 | 🐛 4 | 🌐 Python | 📅 2024-05-07 - Extensible network forensic analysis framework written in Python that enables rapid development of plugins to support the dissection of network packet captures.
-* [Password Manager Resources](https://github.com/apple/password-manager-resources) ⭐ 4,915 | 🐛 128 | 🌐 JavaScript | 📅 2026-10-23 - Collaborative, crowd-sourced data and code to make password management better.
+* [DShell](https://github.com/USArmyResearchLab/Dshell) ⭐ 5,502 | 🐛 4 | 🌐 Python | 📅 2024-05-07 - Extensible network forensic analysis framework written in Python that enables rapid development of plugins to support the dissection of network packet captures.
+* [Password Manager Resources](https://github.com/apple/password-manager-resources) ⭐ 4,922 | 🐛 128 | 🌐 JavaScript | 📅 2026-10-23 - Collaborative, crowd-sourced data and code to make password management better.
 * [Clevis](https://github.com/latchset/clevis) ⭐ 1,280 | 🐛 163 | 🌐 Shell | 📅 2026-10-16 - Plugable framework for automated decryption, often used as a Tang client.
 * [Ansible Lockdown](https://ansiblelockdown.io/) - Curated collection of information security themed Ansible roles that are both vetted and actively maintained.
 * [Dev-Sec.io](https://dev-sec.io/) - Server hardening framework providing Ansible, Chef, and Puppet implementations of various baseline security configurations.
@@ -93,10 +93,10 @@ See also [Security Information and Event Management (SIEM)](#security-informatio
 
 See also [asecure.cloud/tools](https://asecure.cloud/tools/).
 
-* [gVisor](https://github.com/google/gvisor) ⭐ 19,765 | 🐛 1,040 | 🌐 Go | 📅 2026-10-24 - Application kernel, written in Go, that implements a substantial portion of the Linux system surface to provide an isolation boundary between the application and the host kernel.
-* [Prowler](https://github.com/toniblyx/prowler) ⭐ 15,095 | 🐛 505 | 🌐 Python | 📅 2026-10-23 - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
-* [Scout Suite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,856 | 🐛 297 | 🌐 Python | 📅 2025-09-23 - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
-* [Principal Mapper (PMapper)](https://github.com/nccgroup/PMapper) ⭐ 1,587 | 🐛 36 | 🌐 Python | 📅 2024-08-02 - Quickly evaluate IAM permissions in AWS via script and library capable of identifying risks in the configuration of AWS Identity and Access Management (IAM) for an AWS account or an AWS organization.
+* [gVisor](https://github.com/google/gvisor) ⭐ 19,774 | 🐛 988 | 🌐 Go | 📅 2026-10-25 - Application kernel, written in Go, that implements a substantial portion of the Linux system surface to provide an isolation boundary between the application and the host kernel.
+* [Prowler](https://github.com/toniblyx/prowler) ⭐ 15,093 | 🐛 507 | 🌐 Python | 📅 2026-10-25 - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
+* [Scout Suite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,857 | 🐛 297 | 🌐 Python | 📅 2025-09-23 - Open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.
+* [Principal Mapper (PMapper)](https://github.com/nccgroup/PMapper) ⭐ 1,588 | 🐛 36 | 🌐 Python | 📅 2024-08-02 - Quickly evaluate IAM permissions in AWS via script and library capable of identifying risks in the configuration of AWS Identity and Access Management (IAM) for an AWS account or an AWS organization.
 * [Aaia](https://github.com/rams3sh/Aaia) ⭐ 298 | 🐛 4 | 🌐 Python | 📅 2026-01-23 - Helps in visualizing AWS IAM and Organizations in a graph format with help of Neo4j.
 * [Falco](https://falco.org/) - Behavioral activity monitor designed to detect anomalous activity in containerized applications, hosts, and network packet flows by auditing the Linux kernel and enriched by runtime data such as Kubernetes metrics.
 * [Kata Containers](https://katacontainers.io/) - Secure container runtime with lightweight virtual machines that feel and perform like containers, but provide stronger workload isolation using hardware virtualization technology as a second layer of defense.
@@ -115,7 +115,7 @@ See also [§ Service and performance monitoring](#service-and-performance-monito
 
 See also [Kubernetes-Security.info](https://kubernetes-security.info/).
 
-* [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) ⭐ 9,318 | 🐛 63 | 🌐 Go | 📅 2026-10-23 - Kubernetes controller and tool for one-way encrypted Secrets.
+* [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) ⭐ 9,317 | 🐛 65 | 🌐 Go | 📅 2026-10-23 - Kubernetes controller and tool for one-way encrypted Secrets.
 * [kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) ⚠️ Archived - Allows exporting the often missed Kubernetes events to various outputs so that they can be used for observability or alerting purposes.
 * [k-rail](https://github.com/cruise-automation/k-rail) ⚠️ Archived - Workload policy enforcement tool for Kubernetes.
 * [Managed Kubernetes Inspection Tool (MKIT)](https://github.com/darkbitio/mkit) ⚠️ Archived - Query and validate several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
@@ -146,14 +146,14 @@ See also [Transport-layer defenses](#transport-layer-defenses).
 
 ## DevSecOps
 
-See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops) ⭐ 5,498 | 🐛 97 | 📅 2024-05-11.
+See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops) ⭐ 5,499 | 🐛 98 | 📅 2024-05-11.
 
-* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 38,690 | 🐛 279 | 🌐 Go | 📅 2026-10-23 - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
-* [SOPS](https://github.com/mozilla/sops) ⭐ 23,494 | 🐛 464 | 🌐 Go | 📅 2026-10-20 - Editor of encrypted files that supports YAML, JSON, ENV, INI and binary formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, and PGP.
-* [Git Secrets](https://github.com/awslabs/git-secrets) ⭐ 13,417 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - Prevents you from committing passwords and other sensitive information to a git repository.
+* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 38,709 | 🐛 280 | 🌐 Go | 📅 2026-10-23 - Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.
+* [SOPS](https://github.com/mozilla/sops) ⭐ 23,506 | 🐛 465 | 🌐 Go | 📅 2026-10-20 - Editor of encrypted files that supports YAML, JSON, ENV, INI and binary formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, and PGP.
+* [Git Secrets](https://github.com/awslabs/git-secrets) ⭐ 13,420 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - Prevents you from committing passwords and other sensitive information to a git repository.
 * [Clair](https://github.com/coreos/clair) ⭐ 11,082 | 🐛 61 | 🌐 Go | 📅 2026-10-14 - Static analysis tool to probe for vulnerabilities introduced via application container (e.g., Docker) images.
 * [BlackBox](https://github.com/StackExchange/blackbox) ⚠️ Archived - Safely store secrets in Git/Mercurial/Subversion by encrypting them "at rest" using GnuPG.
-* [helm-secrets](https://github.com/jkroepke/helm-secrets) ⭐ 2,034 | 🐛 2 | 🌐 Shell | 📅 2026-10-24 - Helm plugin that helps manage secrets with Git workflow and stores them anywhere, backed by SOPS.
+* [helm-secrets](https://github.com/jkroepke/helm-secrets) ⭐ 2,035 | 🐛 1 | 🌐 Shell | 📅 2026-10-25 - Helm plugin that helps manage secrets with Git workflow and stores them anywhere, backed by SOPS.
 * [Bane](https://github.com/genuinetools/bane) ⭐ 1,231 | 🐛 4 | 🌐 Go | 📅 2020-09-17 - Custom and better AppArmor profile generator for Docker containers.
 * [Checkov](https://www.checkov.io/) - Static analysis for Terraform (infrastructure as code) to help detect CIS policy violations and prevent cloud security misconfiguration.
 * [Cilium](https://cilium.io/) - Open source software for transparently securing the network connectivity between application services deployed using Linux container management platforms like Docker and Kubernetes.
@@ -189,7 +189,7 @@ See also [§ Supply chain security](#supply-chain-security).
 
 ### Fuzzing
 
-See also [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,930 | 🐛 12 | 📅 2024-04-03.
+See also [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,933 | 🐛 12 | 📅 2024-04-03.
 
 * [OneFuzz](https://github.com/microsoft/onefuzz) ⚠️ Archived - Self-hosted Fuzzing-as-a-Service (FaaS) platform.
 * [Atheris](https://pypi.org/project/atheris/) - Coverage-guided Python fuzzing engine based off of libFuzzer that supports fuzzing of Python code but also native extensions written for CPython.
@@ -197,7 +197,7 @@ See also [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,930
 
 ### Policy enforcement
 
-* [AllStar](https://github.com/ossf/allstar) ⭐ 1,461 | 🐛 69 | 🌐 Go | 📅 2026-10-21 - GitHub App installed on organizations or repositories to set and enforce security policies.
+* [AllStar](https://github.com/ossf/allstar) ⭐ 1,461 | 🐛 68 | 🌐 Go | 📅 2026-10-21 - GitHub App installed on organizations or repositories to set and enforce security policies.
 * [Tang](https://github.com/latchset/tang) ⭐ 744 | 🐛 43 | 🌐 C | 📅 2025-03-06 - Server for binding data to network presence; provides data to clients only when they are on a certain (secured) network.
 * [Conftest](https://conftest.dev/) - Utility to help you write tests against structured configuration data.
 * [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - Unified toolset and framework for policy across the cloud native stack.
@@ -214,15 +214,15 @@ See also [§ Dependency confusion](#dependency-confusion).
 
 ## Honeypots
 
-See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,621 | 🐛 28 | 🌐 Python | 📅 2026-06-01.
+See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,624 | 🐛 28 | 🌐 Python | 📅 2026-06-01.
 
-* [CanaryTokens](https://github.com/thinkst/canarytokens) ⭐ 2,227 | 🐛 6 | 🌐 Python | 📅 2026-10-21 - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/).
+* [CanaryTokens](https://github.com/thinkst/canarytokens) ⭐ 2,229 | 🐛 6 | 🌐 Python | 📅 2026-10-21 - Self-hostable honeytoken generator and reporting dashboard; demo version available at [CanaryTokens.org](https://canarytokens.org/).
 * [Manuka](https://github.com/spaceraccoon/manuka) ⭐ 348 | 🐛 6 | 🌐 Shell | 📅 2023-05-02 - Open-sources intelligence (OSINT) honeypot that monitors reconnaissance attempts by threat actors and generates actionable intelligence for Blue Teamers.
 * [Kushtaka](https://kushtaka.org) - Sustainable all-in-one honeypot and honeytoken orchestrator for under-resourced blue teams.
 
 ### Tarpits
 
-* [Endlessh](https://github.com/skeeto/endlessh) ⭐ 8,565 | 🐛 49 | 🌐 C | 📅 2024-06-03 - SSH tarpit that slowly sends an endless banner.
+* [Endlessh](https://github.com/skeeto/endlessh) ⭐ 8,564 | 🐛 49 | 🌐 C | 📅 2024-06-03 - SSH tarpit that slowly sends an endless banner.
 * [LaBrea](http://labrea.sourceforge.net/labrea-info.html) - Program that answers ARP requests for unused IP space, creating the appearance of fake machines that answer further requests very slowly in order to slow down scanners, worms, etcetera.
 
 ## Host-based tools
@@ -238,7 +238,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 1
 
 ### Sandboxes
 
-* [Bubblewrap](https://github.com/containers/bubblewrap) ⭐ 9,190 | 🐛 207 | 🌐 C | 📅 2026-10-14 - Sandboxing tool for use by unprivileged Linux users capable of restricting access to parts of the operating system or user data.
+* [Bubblewrap](https://github.com/containers/bubblewrap) ⭐ 9,200 | 🐛 207 | 🌐 C | 📅 2026-10-14 - Sandboxing tool for use by unprivileged Linux users capable of restricting access to parts of the operating system or user data.
 * [Dangerzone](https://dangerzone.rocks/) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF.
 * [Firejail](https://firejail.wordpress.com/) - SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
 
@@ -248,7 +248,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 1
 
 ## Incident Response tools
 
-See also [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,494 | 🐛 100 | 📅 2026-10-13.
+See also [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,501 | 🐛 100 | 📅 2026-10-13.
 
 * [LogonTracer](https://github.com/JPCERTCC/LogonTracer) ⭐ 3,294 | 🐛 22 | 🌐 Python | 📅 2026-08-02 - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
 * [aws\_ir](https://github.com/ThreatResponse/aws_ir) ⭐ 342 | 🐛 14 | 🌐 Python | 📅 2021-07-23 - Automates your incident response with zero security preparedness assumptions.
@@ -269,14 +269,14 @@ See also [Security Orchestration, Automation, and Response (SOAR)](#security-orc
 * [OSXAuditor](https://github.com/jipegit/OSXAuditor) ⭐ 3,130 | 🐛 9 | 🌐 JavaScript | 📅 2020-07-27 - Free macOS computer forensics tool.
 * [OSXCollector](https://github.com/Yelp/osxcollector) ⚠️ Archived - Forensic evidence collection & analysis toolkit for macOS.
 * [Untitled Goose Tool](https://github.com/cisagov/untitledgoosetool) ⭐ 966 | 🐛 17 | 🌐 Python | 📅 2026-10-13 - Assists incident response teams by exporting cloud artifacts from Azure/AzureAD/M365 environments in order to run a full investigation despite lacking in logs ingested by a SIEM.
-* [ir-rescue](https://github.com/diogo-fernan/ir-rescue) ⭐ 489 | 🐛 4 | 🌐 Batchfile | 📅 2021-02-21 - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+* [ir-rescue](https://github.com/diogo-fernan/ir-rescue) ⭐ 488 | 🐛 4 | 🌐 Batchfile | 📅 2021-02-21 - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 * [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) ⭐ 253 | 🐛 13 | 🌐 Python | 📅 2020-09-22 - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
 * [AutoMacTC](https://github.com/CrowdStrike/automactc) - Modular, automated forensic triage collection framework designed to access various forensic artifacts on macOS, parse them, and present them in formats viable for analysis.
 
 ## Network perimeter defenses
 
 * [ssh-audit](https://github.com/jtesta/ssh-audit) ⭐ 4,330 | 🐛 41 | 🌐 Python | 📅 2026-10-17 - Simple tool that makes quick recommendations for improving an SSH server's security posture.
-* [Gatekeeper](https://github.com/AltraMayor/gatekeeper) ⭐ 1,649 | 🐛 97 | 🌐 C | 📅 2026-09-23 - First open source Distributed Denial of Service (DDoS) protection system.
+* [Gatekeeper](https://github.com/AltraMayor/gatekeeper) ⭐ 1,650 | 🐛 97 | 🌐 C | 📅 2026-09-23 - First open source Distributed Denial of Service (DDoS) protection system.
 * [fwknop](https://www.cipherdyne.org/fwknop/) - Protects ports via Single Packet Authorization in your firewall.
 
 ### Firewall appliances or distributions
@@ -297,9 +297,9 @@ See also [Wikipedia: List of router and firewall distributions](https://en.wikip
 
 See also [awesome-pentest § Social Engineering Tools](https://github.com/fabacab/awesome-pentest#social-engineering-tools) ⭐ 283 | 🐛 0 | 📅 2023-10-23.
 
-* [King Phisher](https://github.com/securestate/king-phisher) ⭐ 2,606 | 🐛 2 | 🌐 Python | 📅 2026-08-04 - Tool for testing and promoting user awareness by simulating real world phishing attacks.
+* [King Phisher](https://github.com/securestate/king-phisher) ⭐ 2,607 | 🐛 2 | 🌐 Python | 📅 2026-08-04 - Tool for testing and promoting user awareness by simulating real world phishing attacks.
 * [phishing\_catcher](https://github.com/x0rz/phishing_catcher) ⭐ 1,830 | 🐛 45 | 🌐 Python | 📅 2024-08-13 - Configurable script to watch for issuances of suspicious TLS certificates by domain name in the Certificate Transparency Log (CTL) using the [CertStream](https://certstream.calidog.io/) service.
-* [CertSpotter](https://github.com/SSLMate/certspotter) ⭐ 1,190 | 🐛 18 | 🌐 Go | 📅 2026-10-09 - Certificate Transparency log monitor from SSLMate that alerts you when a SSL/TLS certificate is issued for one of your domains.
+* [CertSpotter](https://github.com/SSLMate/certspotter) ⭐ 1,190 | 🐛 18 | 🌐 Go | 📅 2026-10-25 - Certificate Transparency log monitor from SSLMate that alerts you when a SSL/TLS certificate is issued for one of your domains.
 * [Swordphish](https://github.com/certsocietegenerale/swordphish-awareness) ⭐ 226 | 🐛 6 | 🌐 Python | 📅 2024-09-22 - Platform allowing to create and manage (fake) phishing campaigns intended to train people in identifying suspicious mails.
 * [Phishing Intelligence Engine (PIE)](https://github.com/LogRhythm-Labs/PIE) ⭐ 179 | 🐛 8 | 🌐 PowerShell | 📅 2020-04-13 - Framework that will assist with the detection and response to phishing attacks.
 * [mailspoof](https://github.com/serain/mailspoof) ⭐ 136 | 🐛 13 | 🌐 Python | 📅 2022-12-08 - Scans SPF and DMARC records for issues that could allow email spoofing.
@@ -331,7 +331,7 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 
 (Also known as *secure-by-default baselines* and *implemented best practices*.)
 
-* [Bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) ⭐ 11,108 | 🐛 160 | 🌐 Python | 📅 2026-10-23 - Docker image of an NginX configuration and scripts implementing many defensive techniques for Web sites.
+* [Bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) ⭐ 11,113 | 🐛 162 | 🌐 Python | 📅 2026-10-23 - Docker image of an NginX configuration and scripts implementing many defensive techniques for Web sites.
 
 ## Security monitoring
 
@@ -346,12 +346,12 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/fabaca
 
 See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) ⭐ 3,435 | 🐛 14 | 📅 2025-09-03.
 
-* [Maltrail](https://github.com/stamparm/maltrail) ⭐ 8,638 | 🐛 37 | 🌐 Python | 📅 2026-10-24 - Malicious network traffic detection system.
-* [Tsunami](https://github.com/google/tsunami-security-scanner) ⭐ 8,617 | 🐛 15 | 🌐 Java | 📅 2026-10-06 - General purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-* [Arkime](https://github.com/arkime/arkime) ⭐ 7,547 | 🐛 42 | 🌐 C | 📅 2026-10-24 - Augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.
+* [Maltrail](https://github.com/stamparm/maltrail) ⭐ 8,639 | 🐛 38 | 🌐 Python | 📅 2026-10-24 - Malicious network traffic detection system.
+* [Tsunami](https://github.com/google/tsunami-security-scanner) ⭐ 8,616 | 🐛 15 | 🌐 Java | 📅 2026-10-06 - General purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
+* [Arkime](https://github.com/arkime/arkime) ⭐ 7,548 | 🐛 42 | 🌐 C | 📅 2026-10-25 - Augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.
 * [Stenographer](https://github.com/google/stenographer) ⚠️ Archived - Full-packet-capture utility for buffering packets to disk for intrusion detection and incident response purposes.
 * [VAST](https://github.com/tenzir/vast) ⭐ 768 | 🐛 0 | 🌐 C++ | 📅 2026-10-23 - Free and open-source network telemetry engine for data-driven security investigations.
-* [Real Intelligence Threat Analysis (RITA)](https://github.com/activecm/rita) ⭐ 664 | 🐛 26 | 🌐 Go | 📅 2026-10-15 - Open source framework for network traffic analysis that ingests Zeek logs and detects beaconing, DNS tunneling, and more.
+* [Real Intelligence Threat Analysis (RITA)](https://github.com/activecm/rita) ⭐ 666 | 🐛 26 | 🌐 Go | 📅 2026-10-15 - Open source framework for network traffic analysis that ingests Zeek logs and detects beaconing, DNS tunneling, and more.
 * [ChopShop](https://github.com/MITRECND/chopshop) ⚠️ Archived - Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.
 * [Respounder](https://github.com/codeexpress/respounder) ⭐ 323 | 🐛 1 | 🌐 Go | 📅 2019-06-15 - Detects the presence of the Responder LLMNR/NBT-NS/MDNS poisoner on a network.
 * [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2018-06-13 - Catch spoofed NetBIOS Name Service (NBNS) responses and alert to an email or log file.
@@ -369,9 +369,9 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) �
 
 ### Service and performance monitoring
 
-See also [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring) ⭐ 35,487 | 🐛 0 | 📅 2026-10-22.
+See also [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring) ⭐ 35,499 | 🐛 0 | 📅 2026-10-22.
 
-* [osquery](https://github.com/facebook/osquery) ⭐ 23,669 | 🐛 577 | 🌐 C++ | 📅 2026-10-23 - Operating system instrumentation framework for macOS, Windows, and Linux, exposing the OS as a high-performance relational database that can be queried with a SQL-like syntax.
+* [osquery](https://github.com/facebook/osquery) ⭐ 23,675 | 🐛 577 | 🌐 C++ | 📅 2026-10-23 - Operating system instrumentation framework for macOS, Windows, and Linux, exposing the OS as a high-performance relational database that can be queried with a SQL-like syntax.
 * [Icinga](https://icinga.com/) - Modular redesign of Nagios with pluggable user interfaces and an expanded set of data connectors, collectors, and reporting tools.
 * [Locust](https://locust.io/) - Open source load testing tool in which you can define user behaviour with Python code and swarm your system with millions of simultaneous users.
 * [Nagios](https://nagios.org) - Popular network and service monitoring solution and reporting platform.
@@ -382,9 +382,9 @@ See also [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmi
 
 (Also known as *hunt teaming* and *threat detection*.)
 
-See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) ⭐ 4,768 | 🐛 63 | 📅 2026-01-05.
+See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) ⭐ 4,770 | 🐛 63 | 📅 2026-01-05.
 
-* [GRR Rapid Response](https://github.com/google/grr) ⭐ 5,104 | 🐛 190 | 🌐 Python | 📅 2026-10-01 - Incident response framework focused on remote live forensics consisting of a Python agent installed on assets and Python-based server infrastructure enabling analysts to quickly triage attacks and perform analysis remotely.
+* [GRR Rapid Response](https://github.com/google/grr) ⭐ 5,107 | 🐛 190 | 🌐 Python | 📅 2026-10-01 - Incident response framework focused on remote live forensics consisting of a Python agent installed on assets and Python-based server infrastructure enabling analysts to quickly triage attacks and perform analysis remotely.
 * [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) ⭐ 3,933 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-06-01 - All-in-one Free Software threat hunting stack based on Elasticsearch, Logstash, Kafka, and Kibana with various built-in integrations for analytics including Jupyter Notebook.
 * [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) ⭐ 2,442 | 🐛 14 | 🌐 PowerShell | 📅 2023-10-14 - PowerShell module for hunt teaming via Windows Event logs.
 * [MozDef](https://github.com/mozilla/MozDef) ⚠️ Archived - Automate the security incident handling process and facilitate the real-time activities of incident handlers.
@@ -398,10 +398,10 @@ See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-det
 
 ## Threat intelligence
 
-See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,770 | 🐛 157 | 📅 2026-05-31.
+See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,776 | 🐛 158 | 📅 2026-05-31.
 
-* [Sigma](https://github.com/Neo23x0/sigma) ⭐ 11,336 | 🐛 284 | 🌐 Python | 📅 2026-10-21 - Generic signature format for SIEM systems, offering an open signature format that allows you to describe relevant log events in a straightforward manner.
-* [YARA](https://github.com/VirusTotal/yara) ⭐ 9,964 | 🐛 163 | 🌐 C | 📅 2026-10-21 - Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples, described as "the pattern matching swiss army knife" for file patterns and signatures.
+* [Sigma](https://github.com/Neo23x0/sigma) ⭐ 11,342 | 🐛 289 | 🌐 Python | 📅 2026-10-21 - Generic signature format for SIEM systems, offering an open signature format that allows you to describe relevant log events in a straightforward manner.
+* [YARA](https://github.com/VirusTotal/yara) ⭐ 9,968 | 🐛 163 | 🌐 C | 📅 2026-10-21 - Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples, described as "the pattern matching swiss army knife" for file patterns and signatures.
 * [Viper](https://github.com/viper-framework/viper) ⚠️ Archived - Binary analysis and management framework enabling easy organization of malware and exploit samples.
 * [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) ⚠️ Archived - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
 * [ThreatIngestor](https://github.com/InQuest/ThreatIngestor) ⭐ 933 | 🐛 15 | 🌐 Python | 📅 2026-05-26 - Extendable tool to extract and aggregate IOCs from threat feeds including Twitter, RSS feeds, or other sources.
@@ -428,7 +428,7 @@ See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threa
 
 ## Tor Onion service defenses
 
-See also [awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 516 | 🐛 1 | 📅 2026-09-23.
+See also [awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 517 | 🐛 1 | 📅 2026-09-23.
 
 * [OnionBalance](https://onionbalance.readthedocs.io/) - Provides load-balancing while also making Onion services more resilient and reliable by eliminating single points-of-failure.
 * [Vanguards](https://github.com/mikeperry-tor/vanguards) ⭐ 247 | 🐛 30 | 🌐 Python | 📅 2024-07-06 - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
@@ -441,10 +441,10 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 516 | 🐛 1 | �
 
 ### Overlay and Virtual Private Networks (VPNs)
 
-* [Headscale](https://github.com/juanfont/headscale) ⭐ 44,967 | 🐛 136 | 🌐 Go | 📅 2026-10-24 - Open source, self-hosted implementation of the Tailscale control server.
-* [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) ⭐ 28,828 | 🐛 1 | 🌐 Shell | 📅 2026-10-24 - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
-* [Nebula](https://github.com/slackhq/nebula) ⭐ 18,463 | 🐛 122 | 🌐 Go | 📅 2026-10-24 - Completely open source and self-hosted, scalable overlay networking tool with a focus on performance, simplicity, and security, inspired by tinc.
-* [Innernet](https://github.com/tonarino/innernet) ⭐ 5,566 | 🐛 85 | 🌐 Rust | 📅 2026-10-22 - Free Software private network system that uses WireGuard under the hood, made to be self-hosted.
+* [Headscale](https://github.com/juanfont/headscale) ⭐ 45,008 | 🐛 137 | 🌐 Go | 📅 2026-10-25 - Open source, self-hosted implementation of the Tailscale control server.
+* [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) ⭐ 28,838 | 🐛 1 | 🌐 Shell | 📅 2026-10-24 - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
+* [Nebula](https://github.com/slackhq/nebula) ⭐ 18,467 | 🐛 122 | 🌐 Go | 📅 2026-10-24 - Completely open source and self-hosted, scalable overlay networking tool with a focus on performance, simplicity, and security, inspired by tinc.
+* [Innernet](https://github.com/tonarino/innernet) ⭐ 5,568 | 🐛 85 | 🌐 Rust | 📅 2026-10-22 - Free Software private network system that uses WireGuard under the hood, made to be self-hosted.
 * [Firezone](https://www.firezone.dev/) - Self-hosted VPN server built on WireGuard that supports MFA and SSO.
 * [OpenVPN](https://openvpn.net/) - Longstanding Free Software traditional SSL/TLS-based virtual private network.
 * [OpenZITI](https://openziti.github.io/) - Open source initiative focused on bringing Zero Trust to any application via an overlay network, tunelling applications, and numerous SDKs.
@@ -454,7 +454,7 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 516 | 🐛 1 | �
 
 ## macOS-based defenses
 
-See also [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) ⭐ 22,567 | 🐛 5 | 🌐 Shell | 📅 2026-10-21.
+See also [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) ⭐ 22,569 | 🐛 5 | 🌐 Shell | 📅 2026-10-25.
 
 * [Santa](https://github.com/google/santa) ⚠️ Archived - Keep track of binaries that are naughty or nice in an allow/deny-listing system for macOS.
 * [Stronghold](https://github.com/alichtman/stronghold) ⭐ 1,197 | 🐛 10 | 🌐 Python | 📅 2025-02-24 - Easily configure macOS security settings from the terminal.
@@ -477,7 +477,7 @@ See also [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#s
 
 ### Active Directory
 
-* [PlumHound](https://github.com/PlumHound/PlumHound) ⭐ 1,331 | 🐛 7 | 🌐 Python | 📅 2025-11-15 - More effectively use BloodHoundAD in continual security life-cycles by utilizing its pathfinding engine to identify Active Directory security vulnerabilities.
+* [PlumHound](https://github.com/PlumHound/PlumHound) ⭐ 1,330 | 🐛 7 | 🌐 Python | 📅 2025-11-15 - More effectively use BloodHoundAD in continual security life-cycles by utilizing its pathfinding engine to identify Active Directory security vulnerabilities.
 * [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths) ⚠️ Archived - Visualize and graph Active Directory permission configs ("control relations") to audit questions such as "Who can read the CEO's email?" and similar.
 * [PingCastle](https://www.pingcastle.com/) - Active Directory vulnerability detection and reporting tool.
 
@@ -489,4 +489,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
